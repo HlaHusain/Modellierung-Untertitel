@@ -211,7 +211,7 @@ to do with derivatives.
 
 00:04:07,570 --> 00:04:12,126
 It's not somehow the differential
-calculus stroke: f and f'.
+calculus notation: f and f'.
 
 00:04:12,126 --> 00:04:14,350
 They are just two different names.
@@ -884,10 +884,10 @@ not necessarily m', but some other
 marking, is reachable from m.
 
 00:16:15,270 --> 00:16:16,890
-Perhaps also in several steps.
+Perhaps even in several steps.
 
 00:16:16,890 --> 00:16:19,650
-This gives our next definition.
+This leads to our next definition.
 
 00:16:20,310 --> 00:16:25,680
 We say a marking
@@ -1310,7 +1310,7 @@ this and then m2 comes out.
 
 00:24:36,330 --> 00:24:39,510
 But here it only says that
-m0 can change into this
+m0 can transition to this
 
 00:24:39,510 --> 00:24:42,450
 concrete marking m2 by firing t1 and t2.

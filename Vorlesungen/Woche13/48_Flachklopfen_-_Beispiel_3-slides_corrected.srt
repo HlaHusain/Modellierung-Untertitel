@@ -8,7 +8,7 @@ to be translated into
 a flat state diagram.
 
 00:00:09,910 --> 00:00:12,430
-What do we have in front of us now?
+What do we have here now?
 
 00:00:12,430 --> 00:00:17,920
 Here again we have no regions, so it's

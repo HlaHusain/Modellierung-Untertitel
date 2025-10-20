@@ -139,7 +139,7 @@ will be labeled here E1, E2, E3 for the
 three philosophers).
 
 00:02:34,879 --> 00:02:37,310
-And for that they
+And for that, they
 need both adjacent forks.
 
 00:02:37,310 --> 00:02:43,680

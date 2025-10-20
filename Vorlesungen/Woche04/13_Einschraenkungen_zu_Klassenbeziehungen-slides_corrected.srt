@@ -72,7 +72,7 @@ which are directly cyclic in this form.
 
 00:01:19,230 --> 00:01:25,515
 Here, in fact, the direction of the
-containing relation is important.
+containment relation is important.
 
 00:01:25,515 --> 00:01:30,690
 So this is forbidden here because one

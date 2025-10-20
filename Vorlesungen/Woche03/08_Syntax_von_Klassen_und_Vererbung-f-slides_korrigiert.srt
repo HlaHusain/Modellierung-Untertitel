@@ -925,7 +925,7 @@ sich das Bild ja jeweils ändern.
 
 00:16:27,690 --> 00:16:33,040
 Während hier, wenn man den Pfeil umdrehen
-würde, es wieder ein Zirkelschluss wäre.
+würde, es wieder eine Zirkelarität wäre.
 
 00:16:33,040 --> 00:16:36,920
 Wäre sozusagen aus einem anderen Grund verboten

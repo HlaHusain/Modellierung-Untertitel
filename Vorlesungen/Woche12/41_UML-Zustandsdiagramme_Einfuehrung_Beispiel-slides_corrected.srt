@@ -110,8 +110,8 @@ or what new state the system
 then enters.
 
 00:02:12,660 --> 00:02:16,800
-Instead of simply putting sequences
-of actions in the center.
+instead of simply focusing on
+sequences of actions.
 
 00:02:19,560 --> 00:02:20,880
 That's very abstract at first.

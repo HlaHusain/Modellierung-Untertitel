@@ -247,7 +247,7 @@ car are more specialized cars in another respect.
 
 00:04:57,890 --> 00:05:04,850
 Instead of just having all four inherit
-from car side by side here, you could group
+from car side by side here, one could combine
 
 00:05:04,850 --> 00:05:10,070
 these subclasses into groups,
@@ -581,7 +581,7 @@ So distinction by status.
 
 00:12:15,370 --> 00:12:23,455
 That's a generalization group and we could
-consider that to be complete and disjoint.
+consider it to be complete and disjoint.
 
 00:12:23,455 --> 00:12:28,720
 So let's assume there's no other kind
@@ -671,8 +671,8 @@ don't somehow add outer space.
 But one could argue that this distinction
 
 00:14:19,980 --> 00:14:23,790
-is "overlapping," that
-is, not "disjoint."
+is "overlapping", that
+is, not "disjoint".
 
 00:14:23,790 --> 00:14:24,660
 Why?

@@ -179,7 +179,7 @@ genannt, oder auch Plätze tatsächlich.
 Und da drin können Marken liegen.
 
 00:03:23,330 --> 00:03:30,110
-Das werden nachher bewegliche kleine Markierungen
+Das werden nachher bewegliche kleine Token
 sein, die sich durch das Petrinetz bewegen lassen.
 
 00:03:30,110 --> 00:03:35,120

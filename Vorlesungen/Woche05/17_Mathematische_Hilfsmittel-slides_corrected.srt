@@ -91,8 +91,8 @@ if it's an infinite set
 that can be continued in a natural way.
 
 00:01:49,460 --> 00:01:52,790
-Of course, there are also quantities
-that cannot be written down in this way.
+Of course, there are also sets that
+cannot be written down in this way.
 
 00:01:52,790 --> 00:01:57,590
 For example, you can't write down
@@ -357,7 +357,7 @@ for the intersection in a moment.
 
 00:06:50,600 --> 00:06:54,530
 The union is
-about throwing quantities together.
+about throwing sets together.
 
 00:06:54,530 --> 00:06:59,810
 So the result set here is the set of
@@ -372,15 +372,15 @@ And, of course, both A and B are
 subsets of the union of A and B.
 
 00:07:17,930 --> 00:07:26,540
-Then there is, so to speak, dual to it,
-with the reverse symbol, the intersection.
+Then there is, so to speak dual to it,
+with the reversed symbol, the intersection.
 
 00:07:26,540 --> 00:07:31,580
 That would be the set of all
 elements that occur in A and in B.
 
 00:07:31,580 --> 00:07:36,290
-So only the "or" in this conditional
+So only the "or" in this condition
 has been replaced by "and".
 
 00:07:36,290 --> 00:07:37,730
@@ -522,7 +522,7 @@ the individual elements.
 
 00:10:20,940 --> 00:10:28,050
 And you can also
-think about certain relations
+think about certain relationships
 
 00:10:28,890 --> 00:10:30,750
 between the relations we have seen.
@@ -767,7 +767,7 @@ definition of the power set notion.
 
 00:15:07,880 --> 00:15:16,310
 For finite sets, which is what they are now
-in all three cases, this relation holds:
+in all three cases, this relationship holds:
 
 00:15:16,310 --> 00:15:22,190
 The number of elements of the power set is 2 to the
@@ -1321,7 +1321,7 @@ This corresponds basically
 to an unlabeled graph.
 
 00:25:49,210 --> 00:25:58,390
-The being directed comes from the fact
+The directedness comes from the fact
 that we have triples here and not sets.
 
 00:25:58,390 --> 00:26:00,580
@@ -1429,7 +1429,7 @@ This one up here is a graph.
 
 00:28:26,520 --> 00:28:30,210
 This one below is represented
-as an image somehow.
+as a picture somehow.
 
 00:28:30,210 --> 00:28:33,450
 But mathematically, what's
@@ -1452,7 +1452,7 @@ sets taken together define the graph.
 
 00:28:57,330 --> 00:29:01,110
 And this below is simply
-an image of the graph.
+a picture of the graph.
 
 00:29:01,110 --> 00:29:06,510
 That's going to be relevant because we're just

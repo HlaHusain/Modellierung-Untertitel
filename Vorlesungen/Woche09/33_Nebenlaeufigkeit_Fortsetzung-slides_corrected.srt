@@ -364,7 +364,7 @@ actually removed one of the tokens.
 
 00:06:57,550 --> 00:07:01,030
 So where we have only two tokens
-left in s1 at the beginning, but
+in s1 at the beginning, but
 
 00:07:01,030 --> 00:07:03,790
 the rest of the Petri net is unchanged.
@@ -605,7 +605,7 @@ So any sequence in which each transition
 
 00:11:45,020 --> 00:11:50,570
 from T' occurs exactly once
-lets us fire from m.
+can be fired from m.
 
 00:11:50,570 --> 00:11:53,270
 Not that we get stuck somewhere.
@@ -684,7 +684,7 @@ transitions activated concurrently.
 
 00:13:17,430 --> 00:13:20,070
 There I had had
-that before for two transitions.
+that before, for two transitions.
 
 00:13:20,070 --> 00:13:23,370
 I think they were t2 and t3 in the

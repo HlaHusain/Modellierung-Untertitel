@@ -34,7 +34,7 @@ Otherwise, it would still
 be like an association.
 
 00:00:40,560 --> 00:00:43,650
-Some relation between A and
+Some relationship between A and
 B, where references exist.
 
 00:00:43,650 --> 00:00:46,410
@@ -163,7 +163,7 @@ Because by this graphical
 form it is already expressed
 
 00:03:09,280 --> 00:03:12,760
-what kind of relation is present
+what kind of relationship is present
 here, namely an aggregation.
 
 00:03:12,760 --> 00:03:15,730
@@ -214,7 +214,7 @@ stands on two parking lots.
 
 00:03:59,870 --> 00:04:05,420
 While again this multiplicity
-should not be given.
+would actually not have to be given.
 
 00:04:05,420 --> 00:04:10,400
 Since this is our default multiplicity
@@ -668,11 +668,11 @@ potentially, at least at the
 
 00:11:58,060 --> 00:11:59,050
 class level, be in compositional
-relation to multiple wholes.
+relationship to multiple wholes.
 
 00:11:59,050 --> 00:12:06,010
 There could be two classes to which a class
-is in compositional relation as a part.
+is in compositional relationship as a part.
 
 00:12:06,010 --> 00:12:12,010
 Then it would not matter

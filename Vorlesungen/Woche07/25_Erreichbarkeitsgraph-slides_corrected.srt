@@ -494,7 +494,7 @@ So, if nothing lies here, one
 token lies here, and here two,
 
 00:08:45,790 --> 00:08:48,730
-which transition would be fireable then?
+which transitions would be fireable then?
 
 00:08:48,730 --> 00:08:51,280
 The t1 would not be fireable,
@@ -762,12 +762,12 @@ This is perhaps not as informative,
 from a modeling point of view,
 
 00:13:36,470 --> 00:13:41,930
-as this representation here, where we tell from
+as this representation here, where we can tell from
 the transitions, so to speak, what they depend on.
 
 00:13:41,930 --> 00:13:45,740
 That can be read
-out here at most indirectly.
+out at most indirectly here.
 
 00:13:45,740 --> 00:13:48,140
 You would have to look at all t1
@@ -795,8 +795,8 @@ whether after some firings it can happen
 that no further transitions are possible.
 
 00:14:14,000 --> 00:14:17,870
-However, in this accessibility
-graph it is factually obvious.
+Whereas in this reachability graph
+it is factually obvious.
 
 00:14:17,870 --> 00:14:21,140
 We just have to see if there is a

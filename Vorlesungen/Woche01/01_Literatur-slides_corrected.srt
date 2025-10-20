@@ -151,7 +151,7 @@ Engineering, it's about the application of
 
 00:02:55,330 --> 00:03:02,800
 UML in the area of modeling software. Things
-are covered rather non-formally in detail,
+are covered rather informally, not in full detail,
 
 00:03:02,800 --> 00:03:06,610
 so less formal than I'm sure
@@ -170,7 +170,7 @@ You can also read this electronically, and in
 fact, if you're logged into the university, so
 
 00:03:22,660 --> 00:03:27,640
-you're logged into the uniaccount, you can also
+you're logged into the university account, you can also
 read this book electronically through this link
 
 00:03:27,640 --> 00:03:31,450
@@ -336,7 +336,7 @@ That should also be available to you, and
 
 00:07:07,260 --> 00:07:13,200
 even without the restriction of having
-to be logged in from the Uni account.
+to be logged in from the Uni-account.
 
 00:07:13,200 --> 00:07:18,780
 Why is this article relevant?

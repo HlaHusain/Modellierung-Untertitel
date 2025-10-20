@@ -125,8 +125,8 @@ Zuordnung zum Beispiel der verschiedenen
 Assoziationen und der Eigenschaften haben.
 
 00:02:21,840 --> 00:02:23,670
-Die Multiplizitäten müssen
-etwa eingehalten werden.
+Die Multiplizitäten etwa müssen
+eingehalten werden.
 
 00:02:23,670 --> 00:02:27,480
 Also, wir müssen alles, was

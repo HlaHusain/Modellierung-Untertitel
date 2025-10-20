@@ -165,7 +165,7 @@ So the idea then is that by the arrows
 going in or out to these rectangles,
 
 00:02:51,850 --> 00:02:57,220
-it shows under what circumstances one
+it is shown under what circumstances one
 overall state can transition to another.
 
 00:02:57,220 --> 00:03:01,690

@@ -118,10 +118,10 @@ So if you can't think of a
 
 00:02:35,280 --> 00:02:37,740
 meaningful name, then there's no
-content relation between these classes.
+content relationship between these classes.
 
 00:02:37,740 --> 00:02:42,120
-And this relation, this
+And this relationship, this
 connection, is not hierarchical.
 
 00:02:42,120 --> 00:02:46,710
@@ -269,7 +269,7 @@ So instead of A and B, let's
 do something more concrete.
 
 00:05:48,960 --> 00:05:51,090
-Let one class be a class of people.
+Let one class be a class of persons.
 
 00:05:51,090 --> 00:05:53,610
 Let the other class be a class of cars.
@@ -317,7 +317,7 @@ by several persons together.
 
 00:06:41,705 --> 00:06:46,580
 The point here is only that this kind of
-relationship between people and cars exists at all.
+relationship between persons and cars exists at all.
 
 00:06:49,190 --> 00:06:51,980
 For that to happen, at least one side would
@@ -344,10 +344,10 @@ not required that each car belongs to
 
 00:07:14,810 --> 00:07:17,750
 only one person (each person owns exactly
-one car), different expressions of this
+one car), different manifestations of this
 
 00:07:17,750 --> 00:07:22,550
-relation are quite conceivable on
+relationship are quite conceivable on
 the level of concrete objects.
 
 00:07:22,550 --> 00:07:27,740
@@ -416,18 +416,18 @@ Or in the case of the Komedia students:
 
 00:08:43,160 --> 00:08:48,530
 Referring to my math lecture from
-last semester, these are relations.
+last semester, these are relationships.
 
 00:08:48,530 --> 00:08:55,160
 Sets of pairs, or subsets of the
 cross product of the set of all
 
 00:08:55,160 --> 00:08:58,250
-people and the set of all cars (which are
+persons and the set of all cars (which are
 reasonable interpretations of these classes).
 
 00:08:58,250 --> 00:09:00,380
-Then these are relations here.
+Then these are relationships here.
 
 00:09:00,380 --> 00:09:03,815
 That is, one asks:
@@ -455,7 +455,7 @@ wanted to say in the last example:
 
 00:09:20,030 --> 00:09:26,420
 The point here was exactly that this is an
-example where car 2 is owned by two people.
+example where car 2 is owned by two persons.
 
 00:09:26,420 --> 00:09:28,610
 That was the point
@@ -527,7 +527,7 @@ seen as the reading direction:
 "person owns car".
 
 00:10:43,150 --> 00:10:47,860
-If I wanted cars to own people,
+If I wanted cars to own persons,
 I could still draw it that way,
 
 00:10:47,860 --> 00:10:54,520
@@ -654,7 +654,7 @@ for person 3 the set \{ car 3 \}.
 
 00:13:27,420 --> 00:13:35,310
 That would then correspond to this
-second mapping, this relation.
+second mapping, this relationship.
 
 00:13:35,310 --> 00:13:38,040
 If we don't store this
@@ -752,7 +752,7 @@ at the time you're modeling.
 Or there are conventions.
 
 00:15:42,580 --> 00:15:48,070
-For example, people on the team (the team that
+For example, persons on the team (the team that
 is modeling together) have agreed and specified:
 
 00:15:48,070 --> 00:15:52,630
@@ -899,7 +899,7 @@ You have to visualize it again:
 What does it mean?
 
 00:18:38,680 --> 00:18:43,930
-It doesn't mean that two people always
+It doesn't mean that two persons always
 own up to five cars exactly together.
 
 00:18:43,930 --> 00:18:46,030
@@ -910,11 +910,11 @@ What is to be read is:
 
 00:18:48,295 --> 00:18:54,880
 Each person owns up to five cars, and
-each car is owned by exactly two people.
+each car is owned by exactly two persons.
 
 00:18:54,880 --> 00:19:00,340
 But it need not always be the same consistent
-pairs of people for different cars.
+pairs of persons for different cars.
 
 00:19:00,340 --> 00:19:09,700
 So it would be quite possible
@@ -951,7 +951,7 @@ Car 2 belongs to person 1 and person 3.
 
 00:19:39,610 --> 00:19:43,960
 But no car belongs to
-exactly the same two people.
+exactly the same two persons.
 
 00:19:43,960 --> 00:19:49,150
 Again, you just have to read it this way:
@@ -960,7 +960,7 @@ Again, you just have to read it this way:
 Each person has up to five cars.
 
 00:19:51,250 --> 00:19:53,470
-Each car belongs to exactly two people.
+Each car belongs to exactly two persons.
 
 00:19:53,470 --> 00:20:00,520
 But this can be mixed, so to speak, as to
@@ -968,7 +968,7 @@ who the owners of any two different cars are.
 
 00:20:00,520 --> 00:20:05,980
 It would also be conceivable that there
-are other people, but no other cars.
+are other persons, but no other cars.
 
 00:20:05,980 --> 00:20:08,500
 Because each person must
@@ -983,7 +983,7 @@ What is not possible here,
 of course, is that there are
 
 00:20:15,280 --> 00:20:17,020
-more cars but no more people.
+more cars but no more persons.
 
 00:20:17,830 --> 00:20:21,610
 Each additional car would have

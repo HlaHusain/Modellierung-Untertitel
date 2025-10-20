@@ -23,7 +23,7 @@ We'll explain the syntax for it later.
 
 00:00:30,885 --> 00:00:37,140
 Here you can see some details,
-which we will discuss later.
+which we will discuss gradually.
 
 00:00:37,140 --> 00:00:43,350
 There are also some detail deviations from
@@ -52,7 +52,7 @@ specifics and small details.
 But as a first impression, you can
 
 00:01:07,770 --> 00:01:09,750
-just take a look at this class diagram.
+just let this class diagram sink in.
 
 00:01:09,750 --> 00:01:13,260
 So here different classes
@@ -94,7 +94,7 @@ relationships represented here as well.
 
 00:01:47,160 --> 00:01:50,340
 There seem to be different
-kinds of relations, too.
+kinds of relationships, too.
 
 00:01:50,340 --> 00:01:54,090
 Sometimes there are numbers like this on
@@ -332,10 +332,10 @@ all the class diagram elements.
 
 00:05:42,160 --> 00:05:46,750
 But you should get an impression
-and you should be able to copy
+and you should be able to do something similar
 
 00:05:46,750 --> 00:05:48,280
-it when you get such an exercise.
+when you get such an exercise.
 
 00:05:48,280 --> 00:05:52,330
 Let's assume that a library
@@ -365,7 +365,7 @@ would like to do with the
 
 00:06:21,230 --> 00:06:24,920
 system from an external black box perspective,
-so to speak, what actions are executed.
+so to speak, what actions are performed.
 
 00:06:24,920 --> 00:06:29,870
 And then it says in each case how
@@ -444,7 +444,7 @@ What terms are in here?
 
 00:07:51,140 --> 00:07:54,950
 And the obvious approach would
-be to look at nouns/nouns first.
+be to look at the nouns first.
 
 00:07:54,950 --> 00:07:56,840
 Because classes are things.
@@ -747,7 +747,7 @@ these classes, which one identified (the
 
 00:13:30,970 --> 00:13:37,270
 system and the member term),
-any relations, in order to
+any relationships, in order to
 
 00:13:37,270 --> 00:13:40,090
 be able to represent in the
@@ -856,7 +856,7 @@ bit by the numbers and the information
 
 00:15:24,760 --> 00:15:30,310
 about how many objects there
-can be of the singleton classes.
+can be of the individual classes.
 
 00:15:30,310 --> 00:15:33,010
 In particular, how many
@@ -958,7 +958,7 @@ can do further refinement.
 
 00:17:22,350 --> 00:17:24,510
 So these relationships here,
-they would just be strokes.
+they would just be lines.
 
 00:17:24,510 --> 00:17:27,420
 We're going to learn that
@@ -999,7 +999,7 @@ But the point is:
 
 00:17:57,300 --> 00:18:05,340
 The picture has been further refined here
-to ultimately get closer to implementation.
+to ultimately get closer to the implementation.
 
 00:18:05,340 --> 00:18:11,400
 Each step adds information that is
@@ -1047,7 +1047,7 @@ have to introduce syntax.
 
 00:19:10,710 --> 00:19:12,690
 How exactly such a
-class is to be notated.
+class is to be denoted.
 
 00:19:12,690 --> 00:19:15,540
 There is a lot left vague here.
