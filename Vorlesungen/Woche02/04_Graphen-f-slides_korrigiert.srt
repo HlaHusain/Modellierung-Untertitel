@@ -122,7 +122,7 @@ Oder für dynamische Modellierung
 könnte man sich vorstellen,
 
 00:02:05,670 --> 00:02:08,490
-dass die Knoten einzelne Zustände sind.
+ dass die Knoten einzelne Zustände sind.
 
 00:02:08,490 --> 00:02:15,360
 Also jeweils die Ausprägung der Gesamtheit
@@ -695,7 +695,7 @@ Also:
 
 00:11:13,510 --> 00:11:17,590
 Was könnte der Farmer als nächstes machen,
-nachdem er den Wolf nach drüben gebracht hat?
+ nachdem er den Wolf nach drüben gebracht hat?
 
 00:11:17,590 --> 00:11:22,990
 Er kann gar nichts machen, denn der

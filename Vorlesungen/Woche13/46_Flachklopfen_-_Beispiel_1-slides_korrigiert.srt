@@ -376,7 +376,7 @@ Das war genau die Verbindung, die es hier gab.
 
 00:06:53,586 --> 00:06:54,990
 Dann können wir danach auch
-diese Markierung entfernen,
+ diese Markierung entfernen,
 
 00:06:54,990 --> 00:06:57,000
 weil sie nicht auf der äußersten Ebene war.
