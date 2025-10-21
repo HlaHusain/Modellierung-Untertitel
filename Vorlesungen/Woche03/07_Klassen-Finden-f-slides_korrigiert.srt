@@ -65,7 +65,7 @@ Offenbar ist irgendwie eine
 Universitäts-Situation modelliert worden.
 
 00:01:16,680 --> 00:01:18,420
-Professor, Institut, Vorlesung, Student.
+Professuren, Institute, Vorlesungen, Studierende.
 
 00:01:18,420 --> 00:01:19,440
 Es gibt Klassen.
@@ -83,7 +83,7 @@ Dann gibt es scheinbar einige Attribute,
 
 00:01:33,690 --> 00:01:38,130
 die die einzelnen Klassen haben, sodass
-Objekte dieser Klassen (der Professor,
+Objekte dieser Klassen (die Professorin oder der Professor,
 
 00:01:38,130 --> 00:01:43,140
 konkret, oder ein konkretes Institut)
@@ -128,11 +128,11 @@ Okay, was muss jetzt in so ein Klassendiagramm
 hinein, oder was muss zunächst geschehen,
 
 00:02:27,310 --> 00:02:31,750
-bevor man sich daran macht, ein
+bevor damit begonnen wird, ein
 objektorientiertes System zu entwickeln?
 
 00:02:31,750 --> 00:02:34,150
-Was sollte man davor modellieren?
+Was sollte davor modelliert werden?
 
 00:02:34,150 --> 00:02:36,490
 Insbesondere zunächst statisch modellieren.
@@ -165,23 +165,23 @@ deswegen modelliert werden sollen.
 Auch:
 
 00:02:56,350 --> 00:02:58,300
-Wie viele Klassen braucht man denn?
+Wie viele Klassen werden denn benötigt?
 
 00:02:58,300 --> 00:03:02,020
-Wird man für jede Sache, die
-auftreten kann, eine Klasse haben?
+Wird für jede Sache, die
+auftreten kann, eine Klasse vorhanden sein?
 
 00:03:02,020 --> 00:03:05,770
 Oder geht es nur um die zentralen Begriffe
-aus der Domäne, die man modelliert?
+aus der Domäne, die modelliert wird?
 
 00:03:05,770 --> 00:03:10,660
 Welche Merkmale haben diese Klassen und
 welche Beziehungen bestehen zwischen ihnen?
 
 00:03:10,660 --> 00:03:14,890
-Also was sollte man als Attribute an welche
-Klassen schreiben, und wie werden die verknüpft?
+Also was sollte als Attribute an welche
+Klassen geschrieben werden, und wie werden diese verknüpft?
 
 00:03:14,890 --> 00:03:17,740
 Im Beispiel eben gab es ja irgendwie
@@ -250,8 +250,8 @@ Anklang an die dynamische Modellierung.
 Aber schon für diese statische Modellierung,
 
 00:04:15,250 --> 00:04:21,640
-wenn man die ersten paar Fragen hier
-beantwortet, muss man irgendwie loslegen.
+wenn die ersten paar Fragen hier
+beantwortet sind, muss irgendwie losgelegt werden.
 
 00:04:21,640 --> 00:04:25,090
 Dafür gibt es in der Literatur
@@ -268,11 +268,11 @@ eine Domäne irgendwie Anforderungen aufzunehmen.
 Anforderungserfassung.
 
 00:04:36,520 --> 00:04:42,550
-Der erste Schritt, den man da machen müsste,
+Der erste Schritt, der da gemacht werden müsste,
 wäre überhaupt erst mal die Klassen zu bestimmen.
 
 00:04:44,050 --> 00:04:47,410
-Später kann man dann versuchen,
+Später kann dann versucht werden,
 Beziehungen zwischen den Klassen
 
 00:04:47,410 --> 00:04:51,580
@@ -296,7 +296,7 @@ Das wird auch nicht völlig systematisch sein,
 
 00:05:08,830 --> 00:05:12,130
 aber gibt zumindest einen Anklang
-daran, wie man da vorgehen kann.
+daran, wie dabei vorgegangen werden kann.
 
 00:05:12,130 --> 00:05:15,370
 Auch wenn Sie in den Übungsaufgaben
@@ -373,11 +373,11 @@ System darauf reagieren sollte.
 Hier:
 
 00:06:30,380 --> 00:06:37,670
-Ein Kunde füllt ein Formular aus mit Namen,
+Eine Kundin oder ein Kunde füllt ein Formular aus mit Namen,
 
 00:06:37,670 --> 00:06:39,950
 Adresse und Telefonnummer und
-gibt das zu dem Angestellten.
+gibt das zur Angestellten oder zum Angestellten.
 
 00:06:39,950 --> 00:06:45,785
 Der Angestellte, oder die Angestellte, fordert
@@ -406,7 +406,7 @@ Und jetzt wäre die erste Frage, im Design:
 
 00:07:08,210 --> 00:07:10,730
 Was müssten denn die Klassen
-sein, die man festhalten möchte?
+sein, die festgehalten werden sollen?
 
 00:07:10,730 --> 00:07:16,460
 Was sind hier irgendwie Typen von wiederkehrenden
@@ -429,8 +429,8 @@ vielleicht Bücher aus dem Katalog zu entfernen,
 Auszüge der Benutzerkonten zu erstellen etc.
 
 00:07:39,680 --> 00:07:43,940
-Was könnte man hieraus über die möglichen
-Klassen lernen, die man hier erfassen möchte?
+Was könnte hieraus über die möglichen
+Klassen gelernt werden, die hier erfasst werden sollen?
 
 00:07:43,940 --> 00:07:49,280
 Nun, ein sehr naiver Ansatz
@@ -455,7 +455,7 @@ Und das klingt sehr naiv, ist aber
 tatsächlich ein erster Schritt,
 
 00:08:06,860 --> 00:08:10,550
-den man machen kann, um
+der gemacht werden kann, um
 Kandidaten für Klassen zu finden.
 
 00:08:10,550 --> 00:08:14,420
@@ -469,28 +469,28 @@ herauszusuchen, sind hier mal alle fett gedruckt.
 Und das sind ganz schön viele.
 
 00:08:18,470 --> 00:08:22,370
-So viele Klassen will man am Ende
-sicherlich nicht in dem System haben.
+So viele Klassen werden am Ende
+sicherlich nicht in dem System gewünscht.
 
 00:08:22,370 --> 00:08:26,170
 Nicht alles davon wird
 tatsächlich eine Klasse werden.
 
 00:08:28,840 --> 00:08:32,470
-Man kann jetzt diese Begriffe nehmen
-und die mal filtern oder gruppieren.
+Jetzt können diese Begriffe genommen
+und mal gefiltert oder gruppiert werden.
 
 00:08:32,470 --> 00:08:36,340
 Und herausfinden, was davon denn
 tatsächlich eine Klasse sein sollte.
 
 00:08:36,340 --> 00:08:38,650
-Was man festhalten muss
-in seinem Klassendiagramm.
+Was im Klassendiagramm
+festgehalten werden muss.
 
 00:08:40,630 --> 00:08:43,480
-Und da kann man erst mal
-einige Beobachtungen treffen.
+Und da können erst mal
+einige Beobachtungen gemacht werden.
 
 00:08:43,480 --> 00:08:48,670
 Zum Beispiel ist auffällig, dass
@@ -516,20 +516,20 @@ Adresse und eine Telefonnummer.
 
 00:09:10,390 --> 00:09:16,420
 Das sind scheinbar
-Eigenschaften dieses Customers.
+Eigenschaften eines Customers.
 
 00:09:16,420 --> 00:09:23,350
 Und Customer ist jetzt schon so ein Begriff,
-"der Kunde" ist schon sehr domänenspezifisch.
+"die Kundin oder der Kunde" ist schon sehr domänenspezifisch.
 
 00:09:23,350 --> 00:09:24,610
-Man könnte auch allgemeiner sagen:
+Es könnte auch allgemeiner gesagt werden:
 
 00:09:24,610 --> 00:09:25,390
 Es geht um ein Mitglied.
 
 00:09:28,420 --> 00:09:28,930
-Wenn man mal schaut:
+Wenn mal geschaut wird:
 
 00:09:28,930 --> 00:09:30,040
 Was sind zusammengesetzte Einheiten?
@@ -560,14 +560,14 @@ Customer, hatte ich schon gesagt,
 ist das gleiche wie ein Member.
 
 00:09:54,460 --> 00:09:58,990
-Man könnte nach Synonymen suchen und sagen:
+Es könnte nach Synonymen gesucht und gesagt werden:
 
 00:09:58,990 --> 00:10:00,580
 Customer und Member sind Synonyme.
 
 00:10:00,580 --> 00:10:04,060
-Nur für eins davon wird man
-eine Klasse einführen müssen,
+Nur für eins davon wird
+eine Klasse eingeführt werden müssen,
 
 00:10:04,060 --> 00:10:06,490
 das andere wird einfach nur
@@ -595,7 +595,7 @@ Application-Form, das ist eigentlich
 hier nur ein Blatt Papier,
 
 00:10:35,370 --> 00:10:38,490
-auf dem der Kunde am Anfang seine Daten einträgt.
+auf dem die Kundin oder der Kunde am Anfang ihre oder seine Daten einträgt.
 
 00:10:39,030 --> 00:10:41,280
 Also nichts, was im System
@@ -612,7 +612,7 @@ Formular, was ausgefüllt wird,
 ist nichts, was in dem System selber vorkommt.
 
 00:10:49,650 --> 00:10:51,090
-Also könnte man sagen:
+Also könnte gesagt werden:
 
 00:10:51,090 --> 00:10:54,780
 Das ist kein Indiz dafür, dass es
@@ -622,7 +622,7 @@ als Klasse eingeführt werden muss.
 Dann gibt es den Request.
 
 00:10:58,110 --> 00:11:04,800
-Das war etwas, was der
+Das war etwas, was die oder der
 Angestellte auslösen sollte
 
 00:11:04,800 --> 00:11:09,150
@@ -682,7 +682,7 @@ Der Clerk ist natürlich ein Akteur, hat aber
 hier nur die Rolle, das System zu bedienen.
 
 00:12:14,710 --> 00:12:18,280
-Er würde nicht selber in der
+Diese Person würde nicht selber in der
 Software repräsentiert sein.
 
 00:12:18,280 --> 00:12:19,120
@@ -735,7 +735,7 @@ was denn Klassen und Attribute sein können.
 
 00:13:27,880 --> 00:13:30,970
 Der nächste Schritt wäre dann, zwischen
-diesen Klassen, die man identifiziert hat
+diesen Klassen, die identifiziert wurden
 
 00:13:30,970 --> 00:13:37,270
 (das System und der Memberbegriff),
@@ -773,7 +773,7 @@ die konkreten einzelnen
 Mitglieder der Bibliothek.
 
 00:14:17,140 --> 00:14:23,170
-Wie könnte man das darstellen, irgendwie eine
+Wie könnte das dargestellt werden, irgendwie eine
 Beziehung zwischen dem System und den Mitgliedern?
 
 00:14:23,170 --> 00:14:28,540
@@ -823,7 +823,7 @@ die Bibliothek vielleicht neu gegründet wurde.
 Die Bibliothek gibt es nur einmal.
 
 00:15:08,500 --> 00:15:10,060
-Man könnte sich auch fragen,
+Es könnte auch die Frage gestellt werden,
 ob das eine Klasse sein muss,
 
 00:15:10,060 --> 00:15:12,610
@@ -876,13 +876,13 @@ des Klassendiagramms noch
 
 00:15:58,360 --> 00:16:03,730
 nicht genau festgehalten, wäre aber auch
-Aufgabe des Klassendiagramm-Designers.
+Aufgabe des Klassendiagramm-Designens.
 
 00:16:06,610 --> 00:16:08,110
 Das ist noch nicht sehr weit, dieses Bild.
 
 00:16:08,110 --> 00:16:12,070
-Jetzt könnte man weitere Use Cases hinzunehmen,
+Jetzt könnten weitere Use Cases hinzugenommen werden,
 zum Beispiel eben das Anlegen von Mitgliedern.
 
 00:16:12,070 --> 00:16:15,250
@@ -928,23 +928,23 @@ Oder vielleicht auch, dass, wenn
 ein Buch nicht verfügbar ist,
 
 00:16:54,910 --> 00:17:00,400
-ein Mitglied es aber ausleihen möchte, man
-dann irgendwie eine Reservierung anlegen kann,
+ein Mitglied es aber ausleihen möchte,
+dann irgendwie eine Reservierung angelegt werden kann,
 
 00:17:00,400 --> 00:17:06,250
 die eine Reservierung auf dieses Buch hält.
 
 00:17:06,250 --> 00:17:08,770
 So dass, wenn das Buch verfügbar
-wird, man es ausleihen kann.
+wird, es ausgeliehen werden kann.
 
 00:17:13,080 --> 00:17:18,390
 Das wäre ein nächster Schritt beim
 Entwurf eines Klassendiagramms.
 
 00:17:18,390 --> 00:17:22,350
-Und da kann man noch weitere
-Verfeinerungen machen.
+Und da können noch weitere
+Verfeinerungen gemacht werden.
 
 00:17:22,350 --> 00:17:24,510
 Also, diese Beziehungen hier,
@@ -958,15 +958,15 @@ Beziehungen gibt, die jeweils
 ihre eigene Bedeutung haben.
 
 00:17:30,060 --> 00:17:34,680
-Und wenn man das hier genauer analysiert,
+Und wenn dies hier genauer analysiert wird,
 welcher Natur diese Einzelbeziehungen sind,
 
 00:17:34,680 --> 00:17:37,020
-könnte man zum Beispiel zu folgendem Bild kommen.
+könnte sich zum Beispiel folgendes Bild ergeben.
 
 00:17:37,020 --> 00:17:41,370
-Wo man einerseits hier noch weitere
-Klassen eingeführt hat, nämlich einen
+Wo hier einerseits noch weitere
+Klassen eingeführt wurden, nämlich einen
 
 00:17:41,370 --> 00:17:44,550
 expliziten Mitgliedskatalog
@@ -987,7 +987,7 @@ was das jeweils bedeuten soll.
 Aber der Punkt ist:
 
 00:17:57,300 --> 00:18:05,340
-Man hat hier das Bild weiter verfeinert, um
+Hier ist das Bild weiter verfeinert worden, um
 letztlich der Implementierung näherzukommen.
 
 00:18:05,340 --> 00:18:11,400
@@ -1011,8 +1011,8 @@ für den Ausleihvorgang stand,
 nicht unbedingt nötig ist.
 
 00:18:30,930 --> 00:18:34,230
-Weil man die Information auch beim
-Buch oder beim Mitglied speichern kann.
+Weil die Information auch beim
+Buch oder beim Mitglied gespeichert werden kann.
 
 00:18:34,230 --> 00:18:39,375
 Während die Reservierung etwas ist, das explizit

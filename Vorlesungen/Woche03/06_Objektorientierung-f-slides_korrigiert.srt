@@ -186,11 +186,11 @@ als auch Blackbox-Modelle in UML.
 
 00:03:45,930 --> 00:03:47,880
 Es kommt also auf die Diagrammart
-an, die man betrachtet,
+an, die betrachtet wird,
 
 00:03:47,880 --> 00:03:50,370
-ob man das eher als Whitebox
-oder als Blackbox ansieht.
+ob dies eher als Whitebox
+oder als Blackbox angesehen wird.
 
 00:03:50,370 --> 00:03:53,010
 Das ist beides prinzipiell abgedeckt.
@@ -232,7 +232,7 @@ Softwareentwicklung hängt
 
 00:04:35,380 --> 00:04:37,570
 natürlich von dem Vorgehensmodell
-ab, mit dem man sich beschäftigt.
+ab, mit dem sich beschäftigt wird.
 
 00:04:37,570 --> 00:04:44,410
 Das hatte ich auch schon in der letzten
@@ -259,11 +259,11 @@ Da wird es nicht unbedingt so sein,
 
 00:05:06,820 --> 00:05:11,830
 dass immer erst mal ein Klassendiagramm
-erstellt wird, bevor man entwickelt.
+erstellt wird, bevor entwickelt wird.
 
 00:05:11,830 --> 00:05:18,310
-Also man spricht von der Softwareentwicklung "im
-Großen", wenn es eben um solche strukturierten
+Also es wird von der Softwareentwicklung "im
+Großen" gesprochen, wenn es eben um solche strukturierten
 
 00:05:18,310 --> 00:05:25,510
 Vorgehensprozesse geht, und dann wäre
@@ -518,7 +518,7 @@ Zustände überhaupt möglich sind.
 Also nicht:
 
 00:09:36,950 --> 00:09:38,360
-Wie kommt man von einem Zustand zum anderen?
+Wie wird von einem Zustand zum anderen übergegangen?
 
 00:09:38,360 --> 00:09:38,780
 Sondern:
@@ -538,11 +538,11 @@ der letzten Woche gemacht haben:
 Welche Operationen werden angeboten?
 
 00:09:50,810 --> 00:09:52,910
-Also, was kann man mit den Dingen tun?
+Also, was kann mit den Dingen getan werden?
 
 00:09:54,710 --> 00:09:58,400
 Ohne zu spezifizieren, was genau
-rauskommt, wenn man das tut.
+rauskommt, wenn das getan wird.
 
 00:09:58,400 --> 00:09:59,210
 Sondern überhaupt erst mal:
@@ -570,8 +570,8 @@ Aber, wie auch in der
 letzten Woche schon gesehen,
 
 00:10:17,070 --> 00:10:20,910
-kann man das überhaupt erst
-mal statisch festhalten.
+kann das überhaupt erst
+mal statisch festgehalten werden.
 
 00:10:20,910 --> 00:10:24,300
 Was denn überhaupt die beteiligten Objekte sind.
@@ -616,7 +616,7 @@ dann gibt es bestimmte Prinzipien, was
 ein gutes objektorientiertes Design ist.
 
 00:11:07,650 --> 00:11:09,720
-Und wenn man die Sprache UML benutzt,
+Und wenn die Sprache UML benutzt wird,
 
 00:11:09,720 --> 00:11:12,600
 dann lassen sich diese Prinzipien sehr
@@ -645,16 +645,16 @@ Einfach weil es in der
 Programmiersprache vorhanden ist,
 
 00:11:32,550 --> 00:11:34,020
-heißt das nicht, dass man
-es überall benutzen muss.
+heißt das nicht, dass
+es überall benutzt werden muss.
 
 00:11:34,020 --> 00:11:40,140
 Und ein klares Design, eine klare Modellierung
 mittels UML, kann es vereinfachen,
 
 00:11:40,140 --> 00:11:44,865
-erst mal sinnvoll zu ermitteln, wann man
-tatsächlich Vererbung einsetzen sollte.
+erst mal sinnvoll zu ermitteln, wann
+tatsächlich Vererbung eingesetzt werden sollte.
 
 00:11:44,865 --> 00:11:47,790
 Auch das sind wieder Patterns, die zum
@@ -664,14 +664,14 @@ Beispiel in der Vorlesung "Fortgeschrittene
 Programmiertechniken" sicher diskutiert werden.
 
 00:11:54,720 --> 00:11:59,150
-Also man kann dann auch fragen:
+Also kann dann auch gefragt werden:
 
 00:11:59,150 --> 00:12:00,530
 Was ist ein gutes oder ein schlechtes Modell?
 
 00:12:00,530 --> 00:12:05,780
-Wenn man sich denn auf eine
-bestimmte Modellsprache festlegt.
+Wenn sich denn auf eine
+bestimmte Modellsprache festgelegt wird.
 
 00:12:12,320 --> 00:12:13,970
 Was hat es jetzt mit dieser
@@ -681,8 +681,8 @@ Objektorientierung auf sich?
 Also, wo kommen die Objekte ins Spiel?
 
 00:12:16,880 --> 00:12:20,450
-Das kann man erst mal wieder sehr
-abstrakt fassen, so wie wir auch
+Das kann erst mal wieder sehr
+abstrakt gefasst werden, so wie wir auch
 
 00:12:20,450 --> 00:12:25,025
 unseren Modell- und Systembegriff
@@ -697,7 +697,7 @@ Objekten, die untereinander in Beziehung stehen.
 
 00:12:35,630 --> 00:12:38,150
 Das ist erst mal eine Feststellung,
-die man über die Welt treffen kann.
+die über die Welt getroffen werden kann.
 
 00:12:38,150 --> 00:12:39,320
 Und die Idee ist:
@@ -707,12 +707,12 @@ Da Informatiksysteme oft mit der Welt zu tun
 haben oder Dinge aus der Welt abbilden sollen,
 
 00:12:44,720 --> 00:12:48,410
-überträgt man diese Grundstrukturierung
+wird diese Grundstrukturierung
 der Welt (oder diese Sichtweise) eben
 
 00:12:48,410 --> 00:12:52,970
 auch auf Modellierung und auf die
-Softwareentwicklung im Allgemeinen.
+Softwareentwicklung im Allgemeinen übertragen.
 
 00:12:52,970 --> 00:12:56,090
 Wie ist es dann etwas genauer zu fassen?
@@ -721,18 +721,18 @@ Wie ist es dann etwas genauer zu fassen?
 Also, die Idee ist:
 
 00:12:57,800 --> 00:13:01,040
-Man nimmt die Daten, die irgendwie
-im System vorliegen sollen.
+Es werden die Daten, die irgendwie
+im System vorliegen sollen, herangezogen.
 
 00:13:01,040 --> 00:13:02,990
-Die wird man später Attribute nennen.
+Die werden später Attribute genannt.
 
 00:13:02,990 --> 00:13:05,990
 Und die werden mit der
 Funktionalität zusammengefasst.
 
 00:13:05,990 --> 00:13:11,030
-Das nennt man Methoden und entspricht
+Das wird als Methoden bezeichnet und entspricht
 Operationen aus der vergangenen Woche.
 
 00:13:11,030 --> 00:13:16,010
@@ -743,7 +743,7 @@ die auf diesen Daten operiert, die werden
 gemeinsam organisiert, gemeinsam zusammengefasst
 
 00:13:21,110 --> 00:13:24,890
-(man spricht auch von einer Kapselung),
+(es wird auch von einer Kapselung gesprochen),
 und jeweils einzelnen Objekten zugeordnet.
 
 00:13:24,890 --> 00:13:28,100
@@ -790,12 +790,12 @@ eventuell Bilder als Ausgabe zurück.
 Also, es ging beides:
 
 00:14:16,730 --> 00:14:20,750
-Man konnte ein Bild als Eingabe
-nehmen und ein Bild zurückgeben,
+Es konnte ein Bild als Eingabe
+genommen und ein Bild zurückgegeben werden,
 
 00:14:20,750 --> 00:14:22,160
-oder konnte einfach nur aus irgendwelchen
-Zahlendaten ein Bild erzeugen.
+oder es konnte einfach nur aus irgendwelchen
+Zahlendaten ein Bild erzeugt werden.
 
 00:14:23,780 --> 00:14:31,730
 Aber es war nicht so, dass die Methoden
@@ -830,7 +830,7 @@ Anwendungskontexten wiederverwenden können.
 
 00:15:12,940 --> 00:15:17,740
 Gucken wir uns das tatsächlich erst einmal etwas
-naiv illustriert an, aus Programmierer-Sicht.
+naiv illustriert an, aus Sicht des oder der Programmierenden.
 
 00:15:17,740 --> 00:15:19,330
 Obwohl dies keine Programmiervorlesung ist.
@@ -914,7 +914,7 @@ als Eingabe für das nächste Bild zu dienen.
 
 00:16:39,760 --> 00:16:45,520
 Dieses sozusagen Weiterreichen dieser
-Bildvariablen könnte man sich sparen.
+Bildvariablen könnte eingespart werden.
 
 00:16:45,520 --> 00:16:48,310
 Das versucht die objektorientierte
@@ -924,18 +924,18 @@ Programmierung zu vermeiden,
 indem das sozusagen eher etwas implizit bleibt.
 
 00:16:54,250 --> 00:16:57,250
-Also, statt sich vorzustellen, man
-erzeuge jedes Mal ein neues Bild,
+Also, statt sich vorzustellen, dass
+jedes Mal ein neues Bild erzeugt wird,
 
 00:16:57,250 --> 00:16:59,230
-wenn man eine Operation
-ausführt, sagt man einfach:
+wenn eine Operation
+ausgeführt wird, wird einfach gesagt:
 
 00:16:59,230 --> 00:17:01,840
-Man hat ein Bild und arbeitet auf dem direkt.
+Es gibt ein Bild und auf dem wird direkt gearbeitet.
 
 00:17:01,840 --> 00:17:05,920
-Also, objektorientiert würde man hier sagen, das
+Also, objektorientiert würde hier gesagt werden, das
 Bild wird mit seinen Operationen zusammengefasst.
 
 00:17:05,920 --> 00:17:12,700
@@ -955,48 +955,48 @@ Ansonsten ist das jetzt kein
 wesentlicher Unterschied.
 
 00:17:23,590 --> 00:17:26,050
-Dann würde man also ein neues Bild
-erzeugen und dann würde man sagen,
+Dann würde also ein neues Bild
+erzeugt und dann würde gesagt,
 
 00:17:26,050 --> 00:17:28,510
-dieses Bild färbe man jetzt rot.
+dieses Bild werde jetzt rot gefärbt.
 
 00:17:29,080 --> 00:17:32,890
-Dieses Bild rotiere man jetzt um Winkel 30.
+Dieses Bild werde jetzt um Winkel 30 rotiert.
 
 00:17:32,890 --> 00:17:36,250
-Dieses Bild bewege man jetzt
-an folgende Koordinaten.
+Dieses Bild werde jetzt
+an folgende Koordinaten bewegt.
 
 00:17:37,210 --> 00:17:39,430
 Das heißt, im Unterschied zu hier
-oben hat man nicht mehrere Bilder,
+oben sind nicht mehrere Bilder vorhanden,
 
 00:17:39,430 --> 00:17:44,650
 die nach und nach aufgebaut werden und dann auch
 noch getrennt voneinander weiterhin existieren.
 
 00:17:44,650 --> 00:17:49,780
-Also hier oben hätte man p1, p2, p3, p4, die
+Also hier oben wären p1, p2, p3, p4 vorhanden, die
 existieren alle noch, auch die Zwischenschritte.
 
 00:17:49,780 --> 00:17:51,430
-Während man hier einfach sagt:
+Während hier einfach gesagt wird:
 
 00:17:51,430 --> 00:17:54,400
 Auf dem einen Bild p führe diese Operationen aus.
 
 00:17:54,940 --> 00:17:57,940
-Man hat also auch nicht immer, wie hier
-oben, ein Bild rein und ein Bild raus.
+Es wird also auch nicht immer, wie hier
+oben, mit einem Bild rein und einem Bild raus gearbeitet.
 
 00:17:57,940 --> 00:18:03,100
-Sondern man arbeitet auf einem Bild,
+Sondern es wird auf einem Bild gearbeitet,
 das automatisch weitergereicht wird.
 
 00:18:03,100 --> 00:18:05,740
 Das ist einerseits etwas
-kürzer, könnte man sagen.
+kürzer, könnte gesagt werden.
 
 00:18:05,740 --> 00:18:09,130
 Hat aber natürlich durchaus auch Nachteile.
@@ -1006,12 +1006,12 @@ Denn hier ist es so, dass dieses Bild
 sozusagen jeweils überschrieben wird.
 
 00:18:12,610 --> 00:18:16,660
-Während man hier oben wirklich
-Werte für die einzelnen Bilder hat,
+Während hier oben wirklich
+Werte für die einzelnen Bilder vorliegen,
 
 00:18:16,660 --> 00:18:21,280
 und durchaus neben p4 weiterhin
-auch noch p2 benutzen könnte.
+auch noch p2 benutzt werden könnte.
 
 00:18:27,640 --> 00:18:32,140
 Das sind einfach zwei verschiedene
@@ -1027,24 +1027,24 @@ jeder Situation so gewünscht,
 
 00:18:43,630 --> 00:18:47,680
 aber bei Objektorientierung
-geht man eben diesen Weg.
+wird eben dieser Weg gegangen.
 
 00:18:48,460 --> 00:18:50,590
 Vergleichen Sie das mit der Arithmetik.
 
 00:18:50,590 --> 00:18:54,400
-Wenn man Zahlen addiert, verschwinden
+Wenn Zahlen addiert werden, verschwinden
 die alten Zahlen ja nicht.
 
 00:18:54,400 --> 00:18:59,040
 Ja, die Situation hier oben entspricht eher dem,
-wie man mit arithmetischen Ausdrücken arbeitet.
+wie mit arithmetischen Ausdrücken gearbeitet wird.
 
 00:18:59,040 --> 00:19:00,220
-Man hat Zwischenergebnisse.
+Es werden Zwischenergebnisse erzielt.
 
 00:19:00,220 --> 00:19:05,650
-Aber dass man die Zahlen fünf und drei addiert,
+Aber dass die Zahlen fünf und drei addiert werden,
 führt nicht dazu, dass aus der Fünf die Acht wird.
 
 00:19:05,650 --> 00:19:07,330
@@ -1095,8 +1095,8 @@ Farbe und lieferte ein neues Bild.
 Und analog bei den anderen Operationen.
 
 00:19:55,050 --> 00:19:57,870
-In der Objektorientierung macht man
-das jetzt nicht mehr so explizit.
+In der Objektorientierung wird das
+jetzt nicht mehr so explizit gemacht.
 
 00:19:57,870 --> 00:20:04,260
 Sondern letztlich wird das Picture,
@@ -1107,15 +1107,15 @@ um die es hier hauptsächlich
 geht, implizit gesetzt.
 
 00:20:08,940 --> 00:20:12,450
-Also man bildet eine Klasse "Picture".
+Also wird eine Klasse "Picture" gebildet.
 
 00:20:12,450 --> 00:20:17,490
 Die hat vielleicht eine Unterklasse für
 die konkreten spezifischeren Sachen,
 
 00:20:17,490 --> 00:20:22,350
-die man am Anfang hat, von denen man ausgehen
-kann, also die Grundformen Rechteck, Kreis etc.
+die am Anfang vorhanden sind, von denen ausgegangen
+werden kann, also die Grundformen Rechteck, Kreis etc.
 
 00:20:22,350 --> 00:20:29,580
 Und dann gibt es zu den hier gegebenen
@@ -1126,7 +1126,7 @@ Aber die arbeiten implizit auf
 jeweils einem Picture-Objekt.
 
 00:20:33,270 --> 00:20:34,950
-Also man sagt dann nur noch, innerhalb der Klasse
+Also wird dann nur noch gesagt, innerhalb der Klasse
 
 00:20:34,950 --> 00:20:41,820
 Picture gibt es gekapselte Operationen
@@ -1202,7 +1202,7 @@ Eingabe, ein Bild als Ausgabe.
 
 00:21:59,350 --> 00:22:02,410
 Das sind ja nicht unbedingt alle
-Operationen, die man sich vorstellen kann.
+Operationen, die sich vorgestellt werden können.
 
 00:22:02,410 --> 00:22:09,700
 Also denken wir etwa mal an Operationen,
@@ -1241,26 +1241,26 @@ die eben hier einen Float-Wert zurückgibt.
 Also dann gibt es keine Argumente.
 
 00:22:40,420 --> 00:22:42,880
-Das Bild muss man nicht als Argument übergeben,
+Das Bild muss nicht als Argument übergeben werden,
 
 00:22:42,880 --> 00:22:45,880
 weil die Methode sowieso in der
 Picture-Klasse gekapselt ist.
 
 00:22:45,880 --> 00:22:50,996
-Man muss also nicht sagen, von welchem
-Bild man denn die Ausmaße haben will.
+Es muss also nicht gesagt werden, von welchem
+Bild denn die Ausmaße ermittelt werden sollen.
 
 00:22:50,996 --> 00:22:53,950
 Das ist immer das aktuelle Bild,
-auf dem man die Methode aufruft.
+auf dem die Methode aufgerufen wird.
 
 00:22:53,950 --> 00:23:00,130
 Es wird das Bild dadurch nicht verändert,
 aber es wird eine ganze Zahl zurückgeliefert.
 
 00:23:00,130 --> 00:23:06,820
-Dann hätte man, wenn wir das
+Dann ergäbe sich, wenn wir das
 so schreiben, eine Operation,
 
 00:23:06,820 --> 00:23:11,890
@@ -1272,11 +1272,11 @@ Sie hat aber einen Rückgabewert.
 
 00:23:14,920 --> 00:23:18,820
 Wo auf der vorherigen Folie überall
-"void" stand, weil man nicht wirklich
+"void" stand, weil nicht wirklich
 
 00:23:18,820 --> 00:23:22,450
-etwas zurückgeben will, sondern einfach
-nur das aktuelle Bild manipulieren möchte.
+etwas zurückgegeben werden soll, sondern einfach
+nur das aktuelle Bild manipuliert werden soll.
 
 00:23:27,190 --> 00:23:39,730
 Und wie gesagt, schon die Syntax in UML
@@ -1312,7 +1312,7 @@ wenn Sie dann Diagramme angeben, dass Sie
 sich wirklich an die UML-Schreibweise halten.
 
 00:24:21,100 --> 00:24:22,225
-Warum macht man Objektorientierung?
+Warum wird Objektorientierung angewendet?
 
 00:24:22,225 --> 00:24:23,950
 Wo wird das in der Praxis eingesetzt?
@@ -1466,8 +1466,8 @@ Das wären die Daten.
 Und er hat irgendwelche Operationen anzubieten.
 
 00:27:09,830 --> 00:27:13,850
-Man kann da Knöpfe drücken, sich Preise
-anzeigen lassen, Münzen einwerfen.
+Da können Knöpfe gedrückt, Preise
+angezeigt und Münzen eingeworfen werden.
 
 00:27:13,850 --> 00:27:15,260
 Es gibt eine Kasse, die verwaltet wird.
@@ -1489,8 +1489,8 @@ Operationen, die angeboten werden.
 Das wäre so ein Objekt der realen Welt,
 
 00:27:31,940 --> 00:27:37,610
-das man dann eben durch objektorientierte
-Modellierung auch in UML nachbilden möchte.
+das dann eben durch objektorientierte
+Modellierung auch in UML nachgebildet werden soll.
 
 00:27:37,610 --> 00:27:43,100
 Als Konzepte werden dann
