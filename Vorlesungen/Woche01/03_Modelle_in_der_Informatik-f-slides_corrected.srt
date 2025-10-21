@@ -305,7 +305,7 @@ There are also classic
 software development processes.
 
 00:05:49,570 --> 00:05:54,640
-If you are still goint to attend
+If you are still going to attend
 Professor Heisel's Software
 
 00:05:54,640 --> 00:05:58,900
