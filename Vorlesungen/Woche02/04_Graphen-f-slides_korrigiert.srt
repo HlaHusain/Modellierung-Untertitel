@@ -41,7 +41,7 @@ das durch einen Pfeil markiert ist.
 
 00:00:48,150 --> 00:00:51,450
 Es gibt auch Graphen, wo das irrelevant
-ist, wo man einfach nur die Verbindung hat,
+ist, wo einfach nur die Verbindung besteht,
 
 00:00:51,450 --> 00:00:53,400
 ohne eine spezielle Richtung vorzugeben.
@@ -119,7 +119,7 @@ dann eben durch die Kanten dargestellt werden.
 
 00:02:01,860 --> 00:02:05,670
 Oder für dynamische Modellierung
-könnte man sich vorstellen,
+ließe sich vorstellen,
 
 00:02:05,670 --> 00:02:08,490
 dass die Knoten einzelne Zustände sind.
@@ -165,7 +165,7 @@ Es ist auch nichts irgendwie
 Informatisches, also kein Informatiksystem.
 
 00:03:03,600 --> 00:03:05,730
-Und genaugenommen könnte man auch sagen:
+Und genaugenommen könnte auch gesagt werden:
 
 00:03:05,730 --> 00:03:06,780
 Das ist einfach ein kleines Rätsel.
@@ -291,7 +291,7 @@ ohne dabei eines seiner
 Besitztümer zu verlieren?
 
 00:05:04,110 --> 00:05:05,640
-Was könnte man hier überhaupt modellieren wollen?
+Was könnte hier überhaupt modelliert werden sollen?
 
 00:05:05,640 --> 00:05:09,840
 Naja, zum Beispiel die Akteure, die hier
@@ -309,7 +309,7 @@ Was passieren kann.
 
 00:05:18,900 --> 00:05:22,500
 Wie sich die Zustände entwickeln können und
-wie man vielleicht vom Start zum Ziel kommt.
+wie vielleicht das Ziel vom Start aus erreicht werden kann.
 
 00:05:22,500 --> 00:05:24,990
 Also nicht Start und Ziel einfach
@@ -365,22 +365,22 @@ Naiv gesehen ist es auch ein Graph, der eben
 aus vier Knoten besteht und gar keiner Kante.
 
 00:06:08,700 --> 00:06:14,220
-Aber das würde man jetzt nicht wirklich als einen
-Graph bezeichnen, weil man keine Netzstruktur hat.
+Aber das würde jetzt nicht wirklich als ein
+Graph bezeichnet, weil keine Netzstruktur vorhanden ist.
 
 00:06:14,220 --> 00:06:17,670
 Also, das geht sicherlich besser,
 informativer insbesondere.
 
 00:06:17,670 --> 00:06:22,710
-Man könnte die Beziehungen zwischen den
-einzelnen Akteuren/Objekten darstellen.
+Es könnten die Beziehungen zwischen den
+einzelnen Akteuren/Objekten dargestellt werden.
 
 00:06:22,710 --> 00:06:24,990
 Also, fügen wir ein bisschen Struktur hinzu.
 
 00:06:24,990 --> 00:06:25,560
-Da kann man sich fragen:
+Da kann gefragt werden:
 
 00:06:25,560 --> 00:06:27,240
 Was sind denn die Beziehungen, die relevant sind?
@@ -450,7 +450,7 @@ Das ist auch wichtig, sonst
 könnten wir das Rätsel nicht lösen.
 
 00:07:26,850 --> 00:07:29,220
-Jetzt könnte man sich fragen:
+Jetzt könnte sich die Frage stellen:
 
 00:07:29,220 --> 00:07:30,510
 Warum soll ich das hier überhaupt machen?
@@ -460,28 +460,28 @@ Um das Rätsel zu erfassen.
 
 00:07:32,070 --> 00:07:37,860
 Aber vielleicht könnte auch ein Sinn der
-Modellierung hier sein, dass man vielleicht
+Modellierung hier sein, dass vielleicht
 
 00:07:37,860 --> 00:07:43,440
-dann auch Situationen beschreiben kann, auf die
+dann auch Situationen beschrieben werden können, auf die
 die Lösung dieses Problems übertragbar wäre.
 
 00:07:43,440 --> 00:07:47,460
-Also hätte man andere Tiere, andere Akteure,
+Also gäbe es andere Tiere, andere Akteure,
 
 00:07:47,460 --> 00:07:50,490
 aber mit analogen oder nur leicht
 abweichenden Fressbeziehungen.
 
 00:07:50,490 --> 00:07:53,220
-Da könnte man sich dann fragen:
+Da könnte dann gefragt werden:
 
 00:07:53,220 --> 00:07:54,540
 Wie analog sind die beiden Situationen?
 
 00:07:54,540 --> 00:07:59,790
-Kann man zum Beispiel eine Lösung für dieses
-Problem auch auf ein ähnliches Problem übertragen?
+Kann zum Beispiel eine Lösung für dieses
+Problem auch auf ein ähnliches Problem übertragen werden?
 
 00:07:59,790 --> 00:08:04,150
 Dann ist es nicht so wichtig, welches Bild hier
@@ -584,7 +584,7 @@ ist, wäre eine Lösung des Problems.
 
 00:09:33,730 --> 00:09:35,710
 Aber mit ein bisschen
-Nachdenken kommt man darauf:
+Nachdenken wird klar:
 
 00:09:35,710 --> 00:09:37,090
 Das kann gar nicht passieren.
@@ -712,8 +712,8 @@ ohne dass der Farmer irgendwie
 durch eine Aktion eingreifen könnte.
 
 00:11:36,350 --> 00:11:42,320
-Das kann man aus dem Rätseltext auch
-ablesen, wenn man diesen wohlwollend liest,
+Das lässt sich aus dem Rätseltext auch
+ablesen, wenn dieser wohlwollend gelesen wird,
 
 00:11:42,320 --> 00:11:46,460
 dass dieses Fressen so geschieht, dass
@@ -752,7 +752,7 @@ die über diese immer wieder
 zu malenden Bilder hinausgeht.
 
 00:12:15,950 --> 00:12:21,800
-Dafür unterscheidet man beim Modellieren,
+Dafür wird beim Modellieren unterschieden,
 letztlich auch beim Programmieren (also auch
 
 00:12:21,800 --> 00:12:24,800
@@ -764,8 +764,8 @@ Also die Syntax, die Symbole, die
 Formen (bei uns oft Diagramme),
 
 00:12:30,200 --> 00:12:33,440
-die man für die Darstellung
-des Modells nutzen darf.
+die für die Darstellung
+des Modells genutzt werden dürfen.
 
 00:12:33,440 --> 00:12:36,290
 Also in diesem naiven Beispiel eben
@@ -806,10 +806,10 @@ Das wäre dann die Semantik dieser Pfeile, usw.
 
 00:13:18,890 --> 00:13:27,290
 Hier war das natürlich alles sehr intuitiv,
-sodass man das vielleicht gar nicht als notwendig
+sodass das vielleicht gar nicht als notwendig
 
 00:13:27,290 --> 00:13:29,900
-erachtet, das so auszuarbeiten,
+erachtet wird, das so auszuarbeiten,
 was Syntax und Semantik sind.
 
 00:13:29,900 --> 00:13:31,430
@@ -828,15 +828,15 @@ sagen, dass die Semantik recht vage ist.
 
 00:13:46,200 --> 00:13:48,750
 Andererseits ist das Problem so
-einfach, dass man schon durch
+einfach, dass schon durch
 
 00:13:48,750 --> 00:13:51,030
 Draufschauen eine Idee
-davon hat, was da passiert.
+davon entsteht, was da passiert.
 
 00:13:51,030 --> 00:13:56,430
-Im Allgemeinen würde man das
-natürlich irgendwie festhalten wollen.
+Im Allgemeinen würde das
+natürlich irgendwie festgehalten werden sollen.
 
 00:13:57,330 --> 00:14:00,030
 Wünschenswert im Allgemeinen ist es, dass
@@ -846,8 +846,8 @@ die Bedeutung von Symbolen
 und Formen sehr präzise ist.
 
 00:14:03,060 --> 00:14:06,300
-Damit auch verschiedene Modellierer oder
-verschiedene Konsumenten des Modells
+Damit auch verschiedene Modellierende oder
+verschiedene Konsumierende des Modells
 
 00:14:06,300 --> 00:14:09,870
 das jeweils verstehen können,
@@ -888,8 +888,8 @@ Notation und Symbole sein sollen.
 Noch nützlicher in der Praxis ist es,
 
 00:14:48,840 --> 00:14:54,060
-wenn man einen Modellierungsansatz mit
-vereinheitlichter Beschreibungsweise hat.
+wenn ein Modellierungsansatz mit
+vereinheitlichter Beschreibungsweise verwendet wird.
 
 00:14:54,060 --> 00:14:55,290
 Petrinetze werden so etwas sein.
@@ -900,11 +900,11 @@ der eine feste Syntax und Semantik hat.
 
 00:14:59,130 --> 00:15:01,785
 Diese sind also unabhängig vom
-konkreten System, das man modelliert.
+konkreten System, das modelliert wird.
 
 00:15:01,785 --> 00:15:05,550
-Das kann man allgemein erklären, zum Beispiel
-in einem Buch beschreiben, und dann können ganz
+Das kann allgemein erklärt, zum Beispiel
+in einem Buch beschrieben werden, und dann können ganz
 
 00:15:05,550 --> 00:15:10,980
 verschiedene Probleme, Systeme, Modelle mit
@@ -926,10 +926,10 @@ Auch die Mathematik macht das.
 
 00:15:27,480 --> 00:15:37,170
 Also mit textuellen Formeln, mit Logik,
-könnte man natürlich auch Dinge spezifizieren,
+könnten natürlich auch Dinge spezifiziert,
 
 00:15:37,170 --> 00:15:40,920
-modellieren, und hätte auch eine
+modelliert werden, und es gäbe auch eine
 gemeinsame formale Grundlage.
 
 00:15:40,920 --> 00:15:43,740
@@ -998,7 +998,7 @@ Was ist mit der dynamischen Modellierung?
 Da hatte ich auch schon gesagt:
 
 00:16:59,250 --> 00:17:04,590
-Dann würde man die Knoten als Zustände ansehen
+Dann würden die Knoten als Zustände angesehen
 und die Kanten als Übergänge dazwischen.
 
 00:17:04,590 --> 00:17:11,550
@@ -1006,8 +1006,8 @@ Also so ein bisschen wie der Schritt von hier
 nach hier, der durch die Pfeile suggeriert wird.
 
 00:17:12,210 --> 00:17:15,180
-Man würde dann tatsächlich zwei
-explizite Knoten in dem Graphen haben,
+Dann wären tatsächlich zwei
+explizite Knoten in dem Graphen vorhanden,
 
 00:17:15,180 --> 00:17:18,390
 und dieser Pfeil würde von dem
@@ -1110,8 +1110,8 @@ aber müssen nicht noch extra ausgezeichnet
 sein, mit irgendeiner Beschriftung daran.
 
 00:18:52,040 --> 00:18:55,700
-Außerdem will man in der Regel
-einen Startzustand hervorheben,
+Außerdem soll in der Regel
+ein Startzustand hervorgehoben werden,
 
 00:18:55,700 --> 00:18:58,340
 meist durch eine eingehende Pfeilspitze.
@@ -1121,8 +1121,8 @@ Und manchmal bezeichnen wir auch noch einen
 oder mehrere ausgezeichnete Endzustände.
 
 00:19:02,840 --> 00:19:08,210
-Dann will man ausdrücken, von wo nach wo man
-in dem Zustandsdiagramm gerne kommen möchte.
+Dann soll ausgedrückt werden, von wo nach wo
+in dem Zustandsdiagramm gelangt werden soll.
 
 00:19:13,750 --> 00:19:16,510
 Machen wir das für unser kleines Problem.
@@ -1173,7 +1173,7 @@ und zwar der Startzustand (deswegen
 durch diese Pfeilspitze ausgezeichnet).
 
 00:20:03,460 --> 00:20:04,990
-Und dann kann man sich überlegen:
+Und dann kann überlegt werden:
 
 00:20:04,990 --> 00:20:06,205
 Was kann denn passieren?
@@ -1256,7 +1256,7 @@ Wolf wird den Kohlkopf nicht fressen.
 Das wäre eine Möglichkeit.
 
 00:21:39,360 --> 00:21:40,500
-Und dann könnte man sich überlegen:
+Und dann könnte überlegt werden:
 
 00:21:40,500 --> 00:21:41,610
 Was kann als Nächstes passieren?
@@ -1282,11 +1282,11 @@ steckt dahinter ein möglicher Schritt.
 Es gibt auch solche Beobachtungen wie:
 
 00:22:04,710 --> 00:22:07,350
-Außer wenn man einen Schritt gemacht hat,
+Außer wenn ein Schritt gemacht worden ist,
 
 00:22:07,350 --> 00:22:10,440
 der zu einem Misserfolgszustand führt,
-kann man Schritte immer auch umkehren.
+können Schritte immer auch umgekehrt werden.
 
 00:22:10,440 --> 00:22:13,080
 Dann gibt es jetzt zwei Pfeile.
@@ -1307,7 +1307,7 @@ Pfeil haben, können wir ihn umdrehen.
 
 00:22:24,480 --> 00:22:27,120
 Außer bei den Misserfolgszuständen,
-denn aus denen kommt man nicht heraus.
+denn aus denen ist nicht herauszukommen.
 
 00:22:27,690 --> 00:22:35,970
 Die sind fatal, im wahrsten Sinne des Wortes
@@ -1321,12 +1321,12 @@ tatsächlich hier jetzt nicht Schritt
 für Schritt erklären oder entwickeln.
 
 00:22:46,910 --> 00:22:51,800
-Aber man kann durch Ausprobieren
+Aber es kann durch Ausprobieren
 und Verfolgen aller Möglichkeiten
 
 00:22:51,800 --> 00:23:00,830
-diesen Graphen verkomplettieren und kommt
-irgendwann zu einem vollständigen Bild.
+dieser Graph verkomplettiert werden und
+irgendwann wird ein vollständiges Bild erreicht.
 
 00:23:01,760 --> 00:23:02,720
 Das ist noch nicht vollständig.
@@ -1339,8 +1339,8 @@ Wir haben diese ganzen Doppelübergänge.
 Wir haben Misserfolgszustände.
 
 00:23:07,400 --> 00:23:09,500
-Aus dem Erfolgszustand kann man
-natürlich einen dummen Fehler
+Aus dem Erfolgszustand kann
+natürlich ein dummer Fehler
 
 00:23:09,500 --> 00:23:12,440
 machen und es doch noch sozusagen verderben.
@@ -1359,17 +1359,17 @@ erreicht, dann lässt er es gut sein.
 Und fährt nicht noch irgendwie durch die Gegend.
 
 00:23:20,840 --> 00:23:22,820
-Aber rein formal könnte man sagen:
+Aber rein formal könnte gesagt werden:
 
 00:23:22,820 --> 00:23:25,730
-Man kann aus dem Erfolgszustand
-immer noch in den Misserfolg geraten.
+Aus dem Erfolgszustand kann
+immer noch in den Misserfolg geraten werden.
 
 00:23:25,730 --> 00:23:26,960
 Aber irgendwas fehlt hier noch.
 
 00:23:26,960 --> 00:23:29,330
-Und das liegt daran, das kann man sich überlegen:
+Und das liegt daran, das kann überlegt werden:
 
 00:23:29,330 --> 00:23:31,850
 Eigentlich muss der Graph symmetrisch sein.
@@ -1379,27 +1379,27 @@ Es ist vollkommen willkürlich, zu sagen, dass
 der Farmer von links nach rechts möchte.
 
 00:23:35,570 --> 00:23:39,470
-Man hätte genauso gut sagen können, der Farmer
+Es hätte genauso gut gesagt werden können, der Farmer
 ist am Anfang rechts und möchte nach links.
 
 00:23:39,470 --> 00:23:42,950
-Dann hätte man also diesen Graphen
-auch so entwickeln können müssen,
+Dann hätte dieser Graph also
+auch so entwickelt werden können müssen,
 
 00:23:42,950 --> 00:23:45,140
-dass man hier beginnt und hier endet.
+dass hier begonnen und hier geendet wird.
 
 00:23:45,140 --> 00:23:46,336
 Aber dafür muss der Graph
 völlig symmetrisch sein.
 
 00:23:46,336 --> 00:23:50,990
-Man muss das also von oben
-nach unten kippen können.
+Das muss also von oben
+nach unten gekippt werden können.
 
 00:23:50,990 --> 00:23:54,815
 Und dann fehlen noch
-Übergänge, wie man hier sieht.
+Übergänge, wie hier zu sehen ist.
 
 00:23:54,815 --> 00:23:56,240
 Diese Übergänge fehlen dann noch.
@@ -1409,15 +1409,15 @@ Dann ist der Graph sowohl
 links-rechts-symmetrisch,
 
 00:24:06,820 --> 00:24:11,906
-da er sich an dieser Achse spiegelt, und man
-kann offenbar auch von oben nach unten spiegeln.
+da er sich an dieser Achse spiegelt, und es
+kann offenbar auch von oben nach unten gespiegelt werden.
 
 00:24:11,906 --> 00:24:15,806
 Dann sieht er zwar aufgemalt nicht exakt
 symmetrisch aus, ist es aber tatsächlich.
 
 00:24:15,806 --> 00:24:28,870
-Also, wenn man nur die Zusammenhänge erfasst
+Also, wenn nur die Zusammenhänge erfasst werden
 und nicht, wie genau die Pfeile gemalt wurden.
 
 00:24:30,940 --> 00:24:38,020
@@ -1429,11 +1429,11 @@ Dann ist der Graph tatsächlich symmetrisch.
 
 00:24:41,125 --> 00:24:47,800
 Das ist letztlich bedingt dadurch, dass
-man intuitiv die Fressbeziehungen umdrehen
+intuitiv die Fressbeziehungen umgedreht
 
 00:24:47,800 --> 00:24:52,270
-könnte und die Rollen von Wolf
-und Kohlkopf vertauschen könnte.
+und die Rollen von Wolf
+und Kohlkopf vertauscht werden könnten.
 
 00:24:52,270 --> 00:24:56,440
 Dann ist die Symmetrie nach dieser Achse.
@@ -1443,8 +1443,8 @@ Und die Symmetrie nach dieser
 Achse ist, dass es eigentlich
 
 00:24:59,470 --> 00:25:02,200
-egal wäre, ob man von links nach rechts oder
-von rechts nach links möchte, als Farmer.
+egal wäre, ob von links nach rechts oder
+von rechts nach links gelangt werden soll, als Farmer.
 
 00:25:02,200 --> 00:25:08,050
 Die Symmetrie bezüglich Anfang und Ende.
@@ -1490,8 +1490,8 @@ Notation nicht mehr auf.
 Die Übergänge hatte ich hier nicht beschriftet.
 
 00:25:49,000 --> 00:25:51,970
-Die hätte man natürlich noch beschriften
-können, indem man immer die Aktion dranschreibt.
+Die hätten natürlich noch beschriftet
+werden können, indem immer die Aktion drangeschrieben wird.
 
 00:25:51,970 --> 00:25:52,480
 Also etwa:
@@ -1550,7 +1550,7 @@ schon ganz am Anfang markiert.
 
 00:26:54,880 --> 00:26:57,580
 Also in einer gewissen Weise
-könnte man hier sagen, das ist die
+könnte hier gesagt werden, das ist die
 
 00:26:57,580 --> 00:27:00,040
 Syntax-/Semantikbeschreibung für diesen Graphen.
@@ -1571,23 +1571,23 @@ nicht noch komplizierter wird.
 Im Allgemeinen kann es schon sehr
 
 00:27:11,560 --> 00:27:14,950
-wichtig sein, dass man auch die
-Beschriftungen an den Kanten hat.
+wichtig sein, dass auch die
+Beschriftungen an den Kanten vorhanden sind.
 
 00:27:18,550 --> 00:27:23,410
-Auch die Farben könnte man letztlich natürlich
-noch als gesonderte Beschriftungen ansehen.
+Auch die Farben könnten letztlich natürlich
+noch als gesonderte Beschriftungen angesehen werden.
 
 00:27:23,410 --> 00:27:27,700
 Die Tatsache, dass ein Knoten rot oder
-blau ist, könnte man auch ansehen als:
+blau ist, könnte auch angesehen werden als:
 
 00:27:27,700 --> 00:27:31,840
 Das ist noch ein weiteres
 Label, das auf dem Knoten liegt.
 
 00:27:34,330 --> 00:27:36,910
-Was kann man an dem konkreten Graphen noch sehen?
+Was kann an dem konkreten Graphen noch gesehen werden?
 
 00:27:36,910 --> 00:27:42,700
 Es gibt hier mehrere Wege
@@ -1602,7 +1602,7 @@ Pfeilen durch diesen Graphen folgt.
 
 00:27:49,150 --> 00:27:55,330
 Schon allein wegen dieses Teils des Graphen,
-wo man hier immer den Pfeilen folgen könnte,
+wo hier immer den Pfeilen gefolgt werden könnte,
 
 00:27:55,330 --> 00:27:59,140
 stellt sich heraus, dass es unendlich viele
@@ -1617,7 +1617,7 @@ bevor er sich dann mal entscheidet,
 wirklich in Richtung Ziel zu gehen.
 
 00:28:07,030 --> 00:28:13,490
-Daran sieht man, dass es zwar ein endlicher Graph
+Daran wird deutlich, dass es zwar ein endlicher Graph
 ist, es aber unendlich viele Wege darin gibt.
 
 00:28:13,490 --> 00:28:18,980
@@ -1645,7 +1645,7 @@ selbst für relativ einfache Systeme
 sehr schnell erstaunlich groß werden.
 
 00:28:48,080 --> 00:28:49,940
-Das nennt man Zustandsexplosion.
+Das wird Zustandsexplosion genannt.
 
 00:28:49,940 --> 00:28:52,610
 Das bedeutet einfach, dass es selbst
@@ -1656,11 +1656,11 @@ viele mögliche Zustände gibt und
 entsprechend komplizierte Graphen.
 
 00:28:55,490 --> 00:28:58,880
-Und das kann man mit flachen
+Und das kann mit flachen
 Zustandsdiagrammen nicht wirklich
 
 00:28:58,880 --> 00:29:03,200
-vermeiden, weil sie eben alle Zustände
+vermieden werden, weil sie eben alle Zustände
 und alle Übergänge explizit darstellen.
 
 00:29:03,200 --> 00:29:07,880
@@ -1676,12 +1676,12 @@ In unserem Problem, manchmal
 auch in anderen Problemen,
 
 00:29:22,070 --> 00:29:27,620
-kann man etwa Symmetrie ausnutzen, um des Problems
-der Zustandsexplosion ein wenig Herr zu werden.
+kann etwa Symmetrie ausgenutzt werden, um das Problem
+der Zustandsexplosion ein wenig abzumildern.
 
 00:29:27,620 --> 00:29:30,620
-Im Allgemeinen braucht man einfach
-mächtigere Modellierungsmittel.
+Im Allgemeinen werden einfach
+mächtigere Modellierungsmittel benötigt.
 
 00:29:30,620 --> 00:29:34,850
 Aber wir wollen erst mal

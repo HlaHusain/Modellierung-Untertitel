@@ -65,11 +65,11 @@ Und das zu definieren, ist gar nicht so einfach,
 weil es einfach alles Mögliche bedeuten kann.
 
 00:01:01,450 --> 00:01:07,100
-Wie man an den gerade genannten
-umgangssprachlichen Beispielen schon sehen kann.
+Wie an den gerade genannten umgangssprachlichen
+Beispielen schon gesehen werden kann.
 
 00:01:07,100 --> 00:01:09,390
-Also für uns könnte man das so fassen:
+Also für uns könnten wir das so fassen:
 
 00:01:09,390 --> 00:01:13,649
 Ein Modell ist eine Repräsentation, also nicht
@@ -94,8 +94,8 @@ Informatik auf Softwareprodukte
 zum Beispiel beziehen.
 
 00:01:26,530 --> 00:01:33,979
-Aber natürlich kann man auch andere realweltliche
-Zusammenhänge auf diese Weise erfassen.
+Aber natürlich können auch andere realweltliche
+Zusammenhänge auf diese Weise erfasst werden.
 
 00:01:33,979 --> 00:01:36,860
 Also geht es darum, etwas zu repräsentieren,
@@ -106,8 +106,8 @@ Und dann steht hier noch: ein
 Modell vereinfacht und abstrahiert.
 
 00:01:41,539 --> 00:01:44,539
-Also in der Regel, natürlich,
-"macht" man ein Modell nicht.
+Also in der Regel, natürlich, wird
+ein Modell nicht "gemacht".
 
 00:01:44,539 --> 00:01:48,719
 Ein Modell ist eben nicht das Echte, also
@@ -175,8 +175,8 @@ Wie definieren Sie denn "System"?
 Auch wieder sehr allgemein verwendet zunächst.
 
 00:02:44,670 --> 00:02:49,790
-Natürlich kann man dabei schon an ein Informatiksystem
-denken, an eine Software, an einen Hardwareprototypen,
+Natürlich kann dabei schon an ein Informatiksystem gedacht
+werden, an eine Software, an einen Hardwareprototypen,
 
 00:02:49,790 --> 00:02:50,990
 zum Beispiel.
@@ -197,15 +197,15 @@ ein Ausschnitt der Realität sein, oder ein
 noch nicht bestehendes Gebilde.
 
 00:03:07,450 --> 00:03:10,680
-Also etwas, was da ist, was man
-beschreiben möchte, gern durch ein Modell.
+Also etwas, was da ist, was wir
+beschreiben möchten, gern durch ein Modell.
 
 00:03:10,680 --> 00:03:18,130
-Oder etwas, das man bauen/erstellen möchte,
-und deswegen im Voraus ein Modell anschaut.
+Oder etwas, das gebaut/erstellt werden soll,
+weswegen im Voraus ein Modell angeschaut wird.
 
 00:03:18,130 --> 00:03:22,000
-Man möchte vorab ein Modell
+Wir möchten vorab ein Modell
 erzeugen, betrachten, damit arbeiten.
 
 00:03:22,000 --> 00:03:25,870
@@ -273,14 +273,14 @@ natürlich gegenständlich sein.
 
 00:04:31,280 --> 00:04:35,150
 Also, etwa eine Augmented-Reality-Anlage,
-die man vielleicht bauen möchte.
+die vielleicht gebaut werden soll.
 
 00:04:35,150 --> 00:04:36,150
 Das wäre das System.
 
 00:04:36,150 --> 00:04:40,460
-Und vorher macht man einen
-Plan davon, ein Modell.
+Und vorher wird ein Plan
+davon gemacht, ein Modell.
 
 00:04:40,460 --> 00:04:47,150
 Das ist eine ganz allgemeine
@@ -320,10 +320,10 @@ vereinfacht/abstrahiert werden.
 
 00:05:14,030 --> 00:05:20,360
 Da das Modell vereinfachend und abstrahierend
-das System repräsentiert, muss man bestimmte
+das System repräsentiert, müssen bestimmte
 
 00:05:20,360 --> 00:05:22,200
-Schritte der Vereinfachung machen.
+Schritte der Vereinfachung gemacht werden.
 
 00:05:22,200 --> 00:05:27,710
 Und das können ganz verschiedene Modellbildungsprozesse
@@ -334,14 +334,14 @@ in der Vorlesung sehen werden.
 
 00:05:29,660 --> 00:05:34,830
 Also, dazu gehört zum Beispiel, abzugrenzen,
-was von der Realität man tatsächlich in
+was von der Realität tatsächlich in
 
 00:05:34,830 --> 00:05:36,020
-dem Modell erfassen möchte.
+dem Modell erfasst werden soll.
 
 00:05:36,020 --> 00:05:40,270
-Also, man muss das System erst mal herausschneiden
-aus der Gesamtrealität, um sagen zu können,
+Also, muss das System erst mal aus der Gesamtrealität
+herausgeschnitten werden, um sagen zu können,
 
 00:05:40,270 --> 00:05:41,740
 was denn hier modelliert werden soll.
@@ -354,8 +354,8 @@ sogar des Systems, vom Rest.
 Reduktion, einfach Details weglassen.
 
 00:05:48,210 --> 00:05:52,070
-Also, man muss vielleicht nicht das gesamte
-System in seiner vollen Pracht repräsentieren.
+Also, muss vielleicht nicht das gesamte System
+in seiner vollen Pracht repräsentiert werden.
 
 00:05:52,070 --> 00:05:57,300
 Das Modell wird in der Regel vereinfacht,
@@ -366,30 +366,30 @@ vielleicht nicht mal den Motor enthält,
 der in dem echten Auto enthalten ist.
 
 00:06:00,310 --> 00:06:03,780
-Denn wenn man das Modellauto nur nutzt, um
+Denn wenn das Modellauto nur benutzt wird, um
 es sich anzuschauen, dann braucht es keinen
 
 00:06:03,780 --> 00:06:04,780
 Motor.
 
 00:06:04,780 --> 00:06:11,310
-Also, man kann Dinge reduzieren, man kann dekomponieren,
-man kann sich das System in seine Einzelteile
+Also, Dinge können reduziert werden, es kann dekomponiert werden,
+das System kann sich in seine Einzelteile
 
 00:06:11,310 --> 00:06:16,750
-zerlegt vorstellen oder erfassen, wie
+zerlegt vorgestellt oder erfasst werden, wie
 es eigentlich aus Subsystemen besteht.
 
 00:06:16,750 --> 00:06:23,949
-Und das kann dazu führen, dass man ein Modell
-darüber besser bilden kann, indem man eben
+Und das kann dazu führen, dass ein Modell
+besser darüber gebildet werden kann, indem eben
 
 00:06:23,949 --> 00:06:29,270
 diese Dekomposition des Systems in seine
-Teile gedanklich durchführt und dann die Teile
+Teile gedanklich durchgeführt und dann die Teile
 
 00:06:29,270 --> 00:06:30,270
-modelliert.
+modelliert werden.
 
 00:06:30,270 --> 00:06:34,419
 Dann ist das Gesamtmodell einfach nur

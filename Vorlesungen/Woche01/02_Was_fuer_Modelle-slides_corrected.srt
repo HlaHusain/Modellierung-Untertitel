@@ -21,13 +21,13 @@ What are models?
 
 00:00:17,550 --> 00:00:22,789
 I'm sure you have some kind of
-colloquial idea of a model, i.e., model
+intuitive idea of a model, i.e., model
 
 00:00:22,789 --> 00:00:25,039
 cars or a 3D model in architecture.
 
 00:00:25,039 --> 00:00:27,210
-Yes, those are all models, colloquially.
+Yes, those are all models, intuitively.
 
 00:00:27,210 --> 00:00:29,019
 And the question is, of course:
@@ -53,7 +53,7 @@ us here in the course?
 
 00:00:44,940 --> 00:00:48,520
 Instead of just the
-colloquial notion of a model.
+intuitive notion of a model.
 
 00:00:48,520 --> 00:00:52,980
 So first, of course, we
@@ -68,7 +68,7 @@ And defining that is not so easy
 because it can mean just about anything.
 
 00:01:01,450 --> 00:01:07,100
-As you can see from the colloquial
+As you can see from the intuitive
 examples I just mentioned.
 
 00:01:07,100 --> 00:01:09,390
@@ -1285,7 +1285,7 @@ exactly is meant by that.
 
 00:21:36,910 --> 00:21:41,010
 Certainly also because static
-and dynamic as colloquial terms
+and dynamic as intuitive terms
 
 00:21:41,010 --> 00:21:42,800
 are hopefully clear enough.
@@ -1441,7 +1441,7 @@ So if I ask you what a car looks like,
 you can just make certain statements about
 
 00:24:37,080 --> 00:24:39,169
-it that just describe it colloquially.
+it that just describe it intuitively.
 
 00:24:39,169 --> 00:24:40,360
 That would be very non-formal.

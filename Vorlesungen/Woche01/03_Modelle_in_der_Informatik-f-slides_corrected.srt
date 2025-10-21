@@ -305,15 +305,15 @@ There are also classic
 software development processes.
 
 00:05:49,570 --> 00:05:54,640
-If you are still listening to
-Professor Heisel's software
+If you are still goint to attend
+Professor Heisel's Software
 
 00:05:54,640 --> 00:05:58,900
-engineering lecture, you will
+Engineering course, you will
 certainly learn more about this there.
 
 00:05:58,900 --> 00:06:02,170
-For example, in the waterfall model,
+For example, in the Waterfall model,
 which is structured by phases, where
 
 00:06:02,170 --> 00:06:05,260
