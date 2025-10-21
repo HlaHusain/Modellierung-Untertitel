@@ -8,7 +8,7 @@ Modellen es denn so gibt, ist es sinnvoll,
 
 00:00:11,730 --> 00:00:19,380
 sich auch etwas konkreter damit zu befassen, warum
-man denn in der Informatik Modelle verwendet.
+denn in der Informatik Modelle verwendet werden.
 
 00:00:19,380 --> 00:00:21,960
 Also, warum gibt es überhaupt
@@ -26,8 +26,8 @@ wie weiter vorn auch, in einem früheren Video.
 Also:
 
 00:00:32,850 --> 00:00:38,250
-Man möchte ein System entwerfen, besser
-verstehen, visualisieren, simulieren, usw.
+Es soll ein System entworfen, besser
+verstanden, visualisiert, simuliert usw. werden.
 
 00:00:38,250 --> 00:00:43,590
 Und das Gleiche kann natürlich auch
@@ -51,7 +51,7 @@ ist, desto wichtiger mag es sein,
 
 00:01:02,940 --> 00:01:06,480
 vorher einen Plan zu haben,
-bevor man einfach konstruiert.
+bevor einfach konstruiert wird.
 
 00:01:06,480 --> 00:01:08,190
 Also, Komplexität spielt
@@ -66,22 +66,22 @@ Also, je nachdem, wenn es um Architektur geht,
 
 00:01:17,280 --> 00:01:21,150
 dann hängt es schon sehr davon ab,
-was für ein Haus man zu bauen gedenkt.
+was für ein Haus gebaut werden soll.
 
 00:01:21,150 --> 00:01:24,060
-Wenn man nur eine Hundehütte baut,
-muss man vielleicht nicht einen Plan
+Wenn nur eine Hundehütte gebaut wird,
+müssen vielleicht nicht ein Plan
 
 00:01:24,060 --> 00:01:27,480
-und ein 3D-Modell dafür haben,
-sondern kann einfach loslegen.
+und ein 3D-Modell dafür vorliegen,
+sondern es kann einfach losgelegt werden.
 
 00:01:27,480 --> 00:01:34,050
-Wenn man hingegen ein Einfamilienhaus
+Wenn hingegen ein Einfamilienhaus
 oder eine größere Wohnanlage oder ein
 
 00:01:34,050 --> 00:01:39,120
-Hochhaus zu bauen gedenkt, dann ist
+Hochhaus gebaut werden soll, dann ist
 das auf jeden Fall komplex genug,
 
 00:01:39,120 --> 00:01:42,150
@@ -104,7 +104,7 @@ Ziel und Hoffnung ist dann
 natürlich, dass die Tatsache,
 
 00:02:03,380 --> 00:02:08,840
-dass man modelliert hat, bevor man anfängt zu
+dass modelliert wurde, bevor begonnen wird zu
 implementieren, zu diversen Vorteilen führt:
 
 00:02:08,840 --> 00:02:10,520
@@ -115,8 +115,8 @@ Niedrigere Kosten durch Vermeidung
 von Reparaturen oder Irrwegen,
 
 00:02:15,650 --> 00:02:24,320
-die man dann wiederholen muss, oder
-Umwege durch Neuentwicklung ersetzen muss.
+die dann wiederholt werden müssen, oder
+Umwege durch Neuentwicklung ersetzt werden müssen.
 
 00:02:24,320 --> 00:02:26,510
 Bessere Dokumentation durch Modelle.
@@ -175,11 +175,11 @@ auch die Rolle von Modellen der Informatik.
 
 00:03:30,305 --> 00:03:36,740
 Denn tatsächlich gibt es Unterschiede,
-ob man ein Informatiksystem entwirft
+ob ein Informatiksystem entworfen
 
 00:03:36,740 --> 00:03:41,090
-und baut, oder zum Beispiel in der
-Architektur einen Gebäudekomplex.
+und gebaut wird, oder zum Beispiel in der
+Architektur ein Gebäudekomplex gebaut wird.
 
 00:03:41,090 --> 00:03:46,040
 Ein wesentlicher Unterschied ist,
@@ -191,11 +191,11 @@ wie viel eines Modells schon umgesetzt wurde.
 
 00:03:51,020 --> 00:03:58,730
 Das ist natürlich ganz anders in der Architektur,
-wo, wenn man ein Hochhaus baut und ein Modell hat,
+wo, wenn ein Hochhaus gebaut wird und ein Modell vorliegt,
 
 00:03:58,730 --> 00:04:03,560
-man anhand dieses Modells auch bestimmen
-kann, durch Vergleich mit der Wirklichkeit:
+anhand dieses Modells auch bestimmt
+werden kann, durch Vergleich mit der Wirklichkeit:
 
 00:04:03,560 --> 00:04:05,240
 Wie viel wurde denn schon umgesetzt?
@@ -220,10 +220,10 @@ zum Zweck mehrfacher Realisierung zu dienen.
 
 00:04:23,410 --> 00:04:28,870
 Also, ein Modell wird erstellt, um dann, wenn
-man große Stückzahlen etwa von einem Motor
+große Stückzahlen etwa von einem Motor
 
 00:04:30,520 --> 00:04:34,360
-herzustellen gedenkt, sich jeweils
+hergestellt werden sollen, sich jeweils
 an dem Modell orientieren zu können.
 
 00:04:34,360 --> 00:04:37,753
@@ -308,10 +308,10 @@ werden, dort sicherlich vertiefen.
 
 00:05:58,900 --> 00:06:02,170
 Zum Beispiel im Wasserfallmodell, das
-durch Phasen gegliedert ist, in denen man
+durch Phasen gegliedert ist, in denen
 
 00:06:02,170 --> 00:06:05,260
-sehr klar feststellen kann, wo
+sehr klar festgestellt werden kann, wo
 denn hier Modellierung passiert.
 
 00:06:05,260 --> 00:06:07,360
@@ -326,8 +326,8 @@ von der Programmierung stattfindet, und
 rechtfertigt auch eine eigene Rolle.
 
 00:06:16,510 --> 00:06:21,670
-Also, es gibt vielleicht den Programmierer,
-den Softwareentwickler, der implementiert.
+Also, es gibt vielleicht den Programmier,
+die Softwareentwicklerin, der oder die implementiert.
 
 00:06:21,670 --> 00:06:25,540
 Und vorher gibt es den Entwurf der
@@ -335,11 +335,11 @@ Software-Architektur oder eben des Designs,
 
 00:06:25,540 --> 00:06:28,690
 und das ist eine Design-Aufgabe, die nicht
-unbedingt ein Programmierer zu erfüllen hat.
+unbedingt von Programmierenden zu erfüllen ist.
 
 00:06:28,690 --> 00:06:32,110
 Also vielleicht wäre das auch eine Rolle
-für Komedia-Absolventen zum Beispiel.
+für Komedia-Absolventen und Absolventinnen zum Beispiel.
 
 00:06:32,110 --> 00:06:36,940
 Und Modelle tauchen jetzt explizit auf.
@@ -350,7 +350,7 @@ werden Modelle erstellt,
 
 00:06:39,700 --> 00:06:43,990
 und es gibt dann wirklich z. B. konkrete
-Dokumente, die man auch anschauen kann.
+Dokumente, die auch angeschaut werden können.
 
 00:06:43,990 --> 00:06:49,780
 Das wären dann die Modelle in so einem
@@ -470,7 +470,7 @@ Schon erwähnt hatte ich Sonderfälle.
 
 00:09:09,100 --> 00:09:15,520
 Also in agiler Softwareentwicklung wird anders,
-man könnte auch sagen weniger, modelliert.
+es könnte auch gesagt werden, weniger, modelliert.
 
 00:09:15,520 --> 00:09:20,080
 Genau genommen tauchen auch dort Modelle
@@ -530,8 +530,8 @@ Und deswegen wird diese Vorlesung sich eben
 auf diese Arten von Modellen konzentrieren.
 
 00:10:22,960 --> 00:10:28,420
-Weitere wichtige Gesichtspunkte, wenn man denn
-mit Modellen arbeitet, sind natürlich Fragen wie:
+Weitere wichtige Gesichtspunkte, wenn denn
+mit Modellen gearbeitet wird, sind natürlich Fragen wie:
 
 00:10:28,420 --> 00:10:30,130
 Ist das Modell überhaupt korrekt?
@@ -541,15 +541,15 @@ Ist es in sich konsistent?
 
 00:10:31,540 --> 00:10:36,040
 Modell-Korrektheit ist natürlich schwierig zu
-beantworten, wenn man das Modell überhaupt erst
+beantworten, wenn das Modell überhaupt erst
 
 00:10:36,040 --> 00:10:41,680
-mal aufstellt, um sich bewusst zu werden, wie
+mal aufgestellt wird, um sich bewusst zu werden, wie
 das System aussehen soll, das entwickelt wird.
 
 00:10:41,680 --> 00:10:46,390
-Dann hat man nicht wirklich eine Handhabe,
-wie man das auf Korrektheit prüfen kann.
+Dann besteht nicht wirklich eine Handhabe,
+wie das auf Korrektheit geprüft werden kann.
 
 00:10:46,390 --> 00:10:48,940
 Aber zum Beispiel könnte innere
@@ -589,22 +589,22 @@ Auch Lebendigkeit ist so ein
 Begriff, der immer sinnvoll ist.
 
 00:11:22,330 --> 00:11:25,900
-Man kann ein Problem eben auch
-formulieren für die Modellklasse an sich.
+Ein Problem kann eben auch
+für die Modellklasse an sich formuliert werden.
 
 00:11:25,900 --> 00:11:27,250
-Man kann etwa für Petrinetze allgemeine
+Für Petrinetze können etwa allgemeine
 
 00:11:27,250 --> 00:11:29,260
-Eigenschaften feststellen,
-die man überprüfen kann.
+Eigenschaften festgestellt werden,
+die überprüft werden können.
 
 00:11:29,260 --> 00:11:35,200
-Und wenn man jetzt ein konkretes
-Modell hat oder aufstellt,
+Und wenn jetzt ein konkretes
+Modell vorliegt oder aufgestellt wird,
 
 00:11:35,200 --> 00:11:37,210
-dann kann man überprüfen, ob
+dann kann überprüft werden, ob
 es eine solche Eigenschaft hat.
 
 00:11:37,210 --> 00:11:42,499
@@ -630,8 +630,8 @@ aber es wird aufscheinen.
 Und natürlich in anderem Kontext,
 
 00:11:58,960 --> 00:12:04,750
-also wenn man wirklich das System am Ende
-auch baut, dann kann man natürlich fragen:
+also wenn wirklich das System am Ende
+auch gebaut wird, dann kann natürlich gefragt werden:
 
 00:12:04,750 --> 00:12:08,980
 Stimmt denn das Modell mit der
@@ -642,8 +642,8 @@ Auch das wird für uns hier
 nicht so relevant sein.
 
 00:12:10,705 --> 00:12:13,090
-Da müsste man eben testen
-oder Verifikation betreiben.
+Da müsste eben getestet
+oder Verifikation betrieben werden.
 
 00:12:13,090 --> 00:12:16,900
 Das steht für uns nicht im Vordergrund.
@@ -788,7 +788,7 @@ recht formales Modellierungsmittel.
 
 00:14:51,310 --> 00:14:56,035
 Das heißt, Sie sollen auch mal sehen,
-wie man formal mit Modellen umgeht.
+wie formal mit Modellen umgegangen wird.
 
 00:14:56,035 --> 00:14:57,790
 Da eignen sich Petrinetze sehr gut.
@@ -801,15 +801,15 @@ zu UML, zu einer Teilmenge von UML.
 Und da werden Sie auch mal sehen,
 
 00:15:05,800 --> 00:15:10,810
-wie man Verbindungen zwischen verschiedenen
-Modellierungsmechanismen aufstellen kann.
+wie Verbindungen zwischen verschiedenen
+Modellierungsmechanismen aufgestellt werden können.
 
 00:15:10,810 --> 00:15:16,120
-Wie man zum Beispiel aus einer bestimmten
+Wie zum Beispiel aus einer bestimmten
 Klasse von UML-Diagrammen systematisch
 
 00:15:16,120 --> 00:15:20,110
-Petrinetze erzeugen kann, um diese dann
+Petrinetze erzeugt werden können, um diese dann
 beispielsweise formal zu analysieren.
 
 00:15:20,110 --> 00:15:25,480
@@ -909,8 +909,8 @@ Natürlich ist auch das, trotz dieses
 Umfangs, keinesfalls umfassend alles,
 
 00:17:07,360 --> 00:17:09,370
-was man in der Informatik
-an Modellen machen kann.
+was in der Informatik
+an Modellen gemacht werden kann.
 
 00:17:09,370 --> 00:17:12,490
 Die Lehrveranstaltung ist nur ein Auszug.
@@ -939,8 +939,8 @@ Ein bisschen bei der
 Beschreibung von Operationen,
 
 00:17:35,050 --> 00:17:41,110
-aber keinesfalls in dem Ausmaß, wie man das
-in so einer Vorlesung auch betreiben könnte.
+aber keinesfalls in dem Ausmaß, wie das
+in so einer Vorlesung auch betrieben werden könnte.
 
 00:17:45,040 --> 00:17:48,370
 Zum Abschluss dieses Videos
@@ -1046,8 +1046,8 @@ bestimmten UML-Diagrammtypen vorkommt.
 Aktivitätsdiagramme werden wir behandeln.
 
 00:19:18,020 --> 00:19:22,940
-Also, man kann hier ein bisschen
-einen ersten Eindruck bekommen,
+Also, hier kann ein bisschen
+ein erster Eindruck gewonnen werden,
 
 00:19:22,940 --> 00:19:24,215
 womit wir uns beschäftigen werden.
@@ -1069,8 +1069,8 @@ Das Substitutionsprinzip, das stelle
 ich nicht mehr in den Vordergrund.
 
 00:19:38,600 --> 00:19:46,340
-Also allzu viel kann man wiederum
-auch nicht aus der Wortwolke ableiten.
+Also allzu viel kann wiederum
+auch nicht aus der Wortwolke abgeleitet werden.
 
 00:19:46,340 --> 00:19:54,500
 Aber ein bisschen ein Eindruck von dem,
