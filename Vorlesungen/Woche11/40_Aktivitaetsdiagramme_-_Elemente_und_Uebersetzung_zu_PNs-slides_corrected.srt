@@ -1616,7 +1616,7 @@ have this activity end or flow end.
 
 00:29:44,571 --> 00:29:48,870
 But we'll be careful in tasks that you
-get that that doesn't fall on your feet.
+get that doesn't fall on your feet.
 
 00:29:48,870 --> 00:29:53,190
 And somehow the

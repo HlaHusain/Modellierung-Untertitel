@@ -380,7 +380,7 @@ causality and concurrency respectively.
 
 00:06:47,910 --> 00:06:51,300
 With causality, we had noted
-that that's a transitive term.
+that, that's a transitive term.
 
 00:06:51,300 --> 00:06:56,610
 So if t1 is causal for t2, and t2 is causal

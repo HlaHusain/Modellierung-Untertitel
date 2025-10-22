@@ -14,7 +14,7 @@ this marking that we see here, t2
 and t3 are activated concurrently.
 
 00:00:19,680 --> 00:00:24,480
-The intuition was that that was
+The intuition was that was
 because I could sort of grab these
 
 00:00:24,480 --> 00:00:28,770
