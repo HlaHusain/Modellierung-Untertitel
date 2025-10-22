@@ -210,8 +210,8 @@ The m' has nothing
 to do with derivatives.
 
 00:04:07,570 --> 00:04:12,126
-It's not like the
-derivative notation: f and f'.
+It's not somehow the differential
+calculus notation: f and f'.
 
 00:04:12,126 --> 00:04:14,350
 They are just two different names.
@@ -1309,8 +1309,8 @@ So it's not that m0 always does
 this and then m2 comes out.
 
 00:24:36,330 --> 00:24:39,510
-But here it only states that
-m0 can transition to this specific marking m2
+But here it only says that
+m0 can transition to this
 
 00:24:39,510 --> 00:24:42,450
 by firing t1 and t2.

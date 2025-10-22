@@ -22,8 +22,8 @@ read this right now, of course.
 We'll explain the syntax for it later.
 
 00:00:30,885 --> 00:00:37,140
-Here you can see some
-details, which we will discuss gradually.
+Here you can see some details,
+which we will discuss gradually.
 
 00:00:37,140 --> 00:00:43,350
 There are also some detail deviations from
@@ -93,7 +93,7 @@ relationships represented here as well.
 
 00:01:47,160 --> 00:01:50,340
 There seem to be different
-kinds of relations, too.
+kinds of relationships, too.
 
 00:01:50,340 --> 00:01:54,090
 Sometimes there are such numbers on here
@@ -746,7 +746,7 @@ these classes, which one identified (the
 
 00:13:30,970 --> 00:13:37,270
 system and the member term),
-any relations, in order to
+any relationships, in order to
 
 00:13:37,270 --> 00:13:40,090
 be able to represent in the
@@ -997,8 +997,8 @@ that's supposed to mean in each case.
 But the point is:
 
 00:17:57,300 --> 00:18:05,340
-The picture has been further refined
-here to ultimately get closer to the implementation.
+The picture has been further refined here
+to ultimately get closer to the implementation.
 
 00:18:05,340 --> 00:18:11,400
 Each step adds information that is
@@ -1046,7 +1046,7 @@ have to introduce syntax.
 
 00:19:10,710 --> 00:19:12,690
 How exactly such a
-class is to be noted.
+class is to be denoted.
 
 00:19:12,690 --> 00:19:15,540
 There is a lot left vague here.

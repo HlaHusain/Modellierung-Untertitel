@@ -239,7 +239,7 @@ I would already have six tokens lying at
 the bottom on the s3 place afterwards.
 
 0:04:28.400,0:04:31.292
-And that is indeed not bounded.
+And that is actually not bounded.
 
 0:04:31.292,0:04:32.600
 Yes, so 6 would still be bounded, but

@@ -948,7 +948,7 @@ Verfeinerungen machen.
 
 00:17:22,350 --> 00:17:24,510
 Also, diese Beziehungen hier,
-die wären einfach nur Striche.
+die wären einfach nur Linien.
 
 00:17:24,510 --> 00:17:27,420
 Wir werden lernen, dass es verschiedene Arten von

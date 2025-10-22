@@ -355,7 +355,7 @@ We will see the reverse symbol
 for the intersection in a moment.
 
 00:06:50,600 --> 00:06:54,530
-In the union, it is
+The union is
 about throwing sets together.
 
 00:06:54,530 --> 00:06:59,810
@@ -371,16 +371,16 @@ And, of course, both A and B are
 subsets of the union of A and B.
 
 00:07:17,930 --> 00:07:26,540
-Then there is so to speak dual to it, with
-the reversed symbol, the intersection.
+Then there is, so to speak dual to it,
+with the reversed symbol, the intersection.
 
 00:07:26,540 --> 00:07:31,580
 That would be the set of all
 elements that occur in A and in B.
 
 00:07:31,580 --> 00:07:36,290
-So only the "or" in this
-condition has been replaced by "and".
+So only the "or" in this condition
+has been replaced by "and".
 
 00:07:36,290 --> 00:07:37,730
 But this makes a big difference.
@@ -521,7 +521,7 @@ the individual elements.
 
 00:10:20,940 --> 00:10:28,050
 And you can also
-think about certain relations
+think about certain relationships
 
 00:10:28,890 --> 00:10:30,750
 between the relations we have seen.
@@ -766,7 +766,7 @@ definition of the power set notion.
 
 00:15:07,880 --> 00:15:16,310
 For finite sets, which is what they are now
-in all three cases, this relation holds:
+in all three cases, this relationship holds:
 
 00:15:16,310 --> 00:15:22,190
 The number of elements of the power set is 2 to the
@@ -1428,7 +1428,7 @@ This one up here is a graph.
 
 00:28:26,520 --> 00:28:30,210
 This one below is represented
-as an image somehow.
+as a picture somehow.
 
 00:28:30,210 --> 00:28:33,450
 But mathematically, what's

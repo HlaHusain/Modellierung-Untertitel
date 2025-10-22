@@ -148,7 +148,7 @@ which looks like it
 does in activity diagrams.
 
 00:02:34,260 --> 00:02:38,430
-From there, there's an arrow
+From there, there is an arrow
 to one of the normal states.
 
 00:02:38,430 --> 00:02:44,520

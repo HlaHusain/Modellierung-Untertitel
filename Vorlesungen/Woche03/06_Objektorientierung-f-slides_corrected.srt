@@ -114,8 +114,8 @@ So the different types of diagrams
 have different degrees of formality.
 
 00:02:19,380 --> 00:02:24,930
-There are purely illustrative diagrams and
-there are also somewhat more formalized diagrams.
+There are purely illustrative diagrams and there
+are also somewhat more formalized diagrams.
 
 00:02:28,350 --> 00:02:32,250
 Here is a summary of
@@ -776,8 +776,8 @@ what we saw last week for
 this vector graphics domain.
 
 00:14:05,390 --> 00:14:10,610
-Because there it wasn't that the Pictures, the
-images, themselves somehow offered methods.
+Because there it wasn't that the Pictures
+themselves somehow offered methods.
 
 00:14:10,610 --> 00:14:11,480
 But rather there were these operations.
@@ -790,16 +790,16 @@ possibly returning Pictures as output.
 So it worked both ways:
 
 00:14:16,730 --> 00:14:20,750
-You could take an image as
-input and return an image, or
+You could take a picture as
+input and return a picture, or
 
 00:14:20,750 --> 00:14:22,160
-you could just generate an
-image from some numerical data.
+you could just generate a
+picture from some numerical data.
 
 00:14:23,780 --> 00:14:31,730
 But it wasn't like the methods
-were directly tied to the images.
+were directly tied to the pictures.
 
 00:14:31,730 --> 00:14:34,850
 We'll see that in
@@ -897,7 +897,7 @@ That would be one way we could
 describe such a step-by-step
 
 00:16:14,470 --> 00:16:17,320
-construction of an image using
+construction of a picture using
 the operations from last week.
 
 00:16:17,320 --> 00:16:21,580
@@ -908,15 +908,15 @@ What's noticeable here, and may
 seem clumsy at first glance:
 
 00:16:30,130 --> 00:16:35,170
-We have these intermediate images
+We have these intermediate pictures
 here, each of which has its own
 
 00:16:35,170 --> 00:16:39,760
 name and then actually always has the role
-of serving as input for the next image.
+of serving as input for the next picture.
 
 00:16:39,760 --> 00:16:45,520
-This passing on of these image
+This passing on of these picture
 variables, so to speak, could be avoided.
 
 00:16:45,520 --> 00:16:48,310
@@ -929,22 +929,22 @@ implicit, so to speak.
 
 00:16:54,250 --> 00:16:57,250
 So instead of imagining that
-you create a new image every
+you create a new picture every
 
 00:16:57,250 --> 00:16:59,230
 time you perform an
 operation, you simply say:
 
 00:16:59,230 --> 00:17:01,840
-You have an image and
+You have a picture and
 you work on that directly.
 
 00:17:01,840 --> 00:17:05,920
 So in an object-oriented way, you would say
-here, the image is combined with its operations.
+here, the picture is combined with its operations.
 
 00:17:05,920 --> 00:17:12,700
-So there is an image p, which is created at the
+So there is a picture p, which is created at the
 beginning once as a rectangle with these dimensions.
 
 00:17:12,700 --> 00:17:14,620
@@ -961,16 +961,16 @@ no significant difference.
 
 00:17:23,590 --> 00:17:26,050
 Then you would create a new
-image and then you would say that
+picture and then you would say that
 
 00:17:26,050 --> 00:17:28,510
-you now color this image red.
+you now color this picture red.
 
 00:17:29,080 --> 00:17:32,890
-Now rotate this image by angle 30.
+Now rotate this picture by angle 30.
 
 00:17:32,890 --> 00:17:36,250
-Now move this image
+Now move this picture
 to the following coordinates.
 
 00:17:37,210 --> 00:17:39,430
@@ -989,15 +989,15 @@ all still exist, also the intermediate steps.
 While here one simply says:
 
 00:17:51,430 --> 00:17:54,400
-On the one image
+On the one picture
 p, perform these operations.
 
 00:17:54,940 --> 00:17:57,940
 So you don't always have, as here
-above, one image in and one image out.
+above, one picture in and one picture out.
 
 00:17:57,940 --> 00:18:03,100
-But you work on one image, which
+But you work on one picture, which
 is automatically passed on.
 
 00:18:03,100 --> 00:18:05,740
@@ -1008,12 +1008,12 @@ bit shorter, you could say.
 But of course it also has disadvantages.
 
 00:18:09,940 --> 00:18:12,610
-Because here it is so that this image is
+Because here it is so that this picture is
 overwritten, so to speak, in each case.
 
 00:18:12,610 --> 00:18:16,660
 Whereas here above you really have
-values for the individual images and
+values for the individual pictures and
 
 00:18:16,660 --> 00:18:21,280
 could quite well continue to
@@ -1091,11 +1091,11 @@ our operations last week.
 
 00:19:43,290 --> 00:19:48,060
 So there were explicit occurrences
-of images as inputs and outputs.
+of pictures as inputs and outputs.
 
 00:19:48,060 --> 00:19:52,260
-So "color" took an image and a
-color, and returned a new image.
+So "color" took a picture and a
+color, and returned a new picture.
 
 00:19:52,260 --> 00:19:55,050
 And analogously with
@@ -1153,11 +1153,11 @@ automatically on a picture.
 
 00:20:52,440 --> 00:20:55,980
 So, when I call "color",
-I do it on an image.
+I do it on a picture.
 
 00:20:55,980 --> 00:21:02,391
-And the result, the colored image,
-is what comes out after the operation.
+And the result, the colored picture, is
+what the picture becomes after the operation.
 
 00:21:02,391 --> 00:21:07,140
 So the picture on which I call
@@ -1198,14 +1198,14 @@ between these two approaches.
 
 00:21:47,740 --> 00:21:55,810
 Does this mean that only operations that
-always return an image are possible?
+always return a picture are possible?
 
 00:21:55,810 --> 00:21:57,370
 It looks like this above.
 
 00:21:57,370 --> 00:21:59,350
-That always makes: one image
-as input, one image as output.
+That always makes: one picture
+as input, one picture as output.
 
 00:21:59,350 --> 00:22:02,410
 These are not necessarily all
@@ -1225,7 +1225,7 @@ operation that simply determines
 
 00:22:15,190 --> 00:22:20,710
 the extent, the size, the diameter
-or something like that for an image.
+or something like that for a picture.
 
 00:22:20,710 --> 00:22:24,100
 That would be from a mathematical
@@ -1236,7 +1236,7 @@ point of view, simply an
 operation "extent" for "extent".
 
 00:22:26,230 --> 00:22:30,490
-It takes an image and returns a number.
+It takes a picture and returns a number.
 
 00:22:30,490 --> 00:22:36,160
 That would then be equivalent, if
@@ -1265,8 +1265,8 @@ This is always the current picture
 on which you call the method.
 
 00:22:53,950 --> 00:23:00,130
-It doesn't change the image,
-but it returns a whole number.
+It doesn't change the picture,
+but it returns an integer.
 
 00:23:00,130 --> 00:23:06,820
 Then, if we write it this way,
@@ -1450,7 +1450,7 @@ You can also see that this is
 probably not the most recent one.
 
 00:26:49,700 --> 00:26:54,560
-So the image has been in the slides of
+So the picture has been in the slides of
 this lecture for quite some time, even with
 
 00:26:54,560 --> 00:26:58,760
@@ -1498,7 +1498,7 @@ object of the real world,
 
 00:27:31,940 --> 00:27:37,610
 which one would like to reproduce then
-even by object-oriented modeling also in UML.
+by object-oriented modeling also in UML.
 
 00:27:37,610 --> 00:27:43,100
 Two terms will then appear as concepts:

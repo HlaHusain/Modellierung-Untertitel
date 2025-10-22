@@ -494,7 +494,7 @@ So, if there's nothing here, a token here,
 and two here,
 
 00:08:45,790 --> 00:08:48,730
-which transitions would then be switchable?
+which transitions would be fireable then?
 
 00:08:48,730 --> 00:08:51,280
 The t1 would not be fireable,
@@ -763,11 +763,12 @@ This is perhaps not as informative,
 from a modeling perspective,
 
 00:13:36,470 --> 00:13:41,930
-as this representation here, where we can see,
-so to speak, what the transitions depend on.
+as this representation here, where we can tell from
+the transitions, so to speak, what they depend on.
 
 00:13:41,930 --> 00:13:45,740
-This can only be read indirectly here.
+That can be read
+out at most indirectly here.
 
 00:13:45,740 --> 00:13:48,140
 You would have to look at all t1

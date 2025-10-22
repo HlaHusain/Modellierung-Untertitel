@@ -1232,16 +1232,16 @@ We will also see this in the example.
 That's exactly where it appears.
 
 00:22:34,410 --> 00:22:40,950
-So in our example activity diagram, it was
-such that this becomes a transition and
+So in our example activity diagram it
+was so that this becomes a transition and
 
 00:22:40,950 --> 00:22:45,060
-this also becomes a transition,
-because that is how it is with actions and
+this also becomes a transition, because
+that's the way it is with actions and
 
 00:22:45,060 --> 00:22:49,590
-synchronization nodes/merge nodes
-in activity diagrams.
+join nodes
+in an activity diagram.
 
 00:22:49,590 --> 00:22:52,650
 Then there must be an auxiliary place in between.

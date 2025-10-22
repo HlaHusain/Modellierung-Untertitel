@@ -541,7 +541,7 @@ writing down corresponding additional lines.
 
 00:10:19,840 --> 00:10:26,770
 For the initial marking, that is, for the
-distribution of tokens in the initial image,
+distribution of tokens in the initial picture,
 
 00:10:26,770 --> 00:10:29,410
 we have this start

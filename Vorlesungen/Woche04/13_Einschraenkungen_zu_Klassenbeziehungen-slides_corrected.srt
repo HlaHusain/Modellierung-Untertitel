@@ -71,8 +71,8 @@ And there must not be any two
 classes that are directly cyclic in this form.
 
 00:01:19,230 --> 00:01:25,515
-Here, in fact, the direction
-of the containment relation is important.
+Here, in fact, the direction of the
+containment relation is important.
 
 00:01:25,515 --> 00:01:30,690
 So this is forbidden here because one

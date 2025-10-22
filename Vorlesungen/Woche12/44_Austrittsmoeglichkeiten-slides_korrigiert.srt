@@ -292,7 +292,7 @@ A und hier in C oder D sind.
 
 00:06:14,120 --> 00:06:16,670
 Also der zusammengesetzte
-Zustand wird nur verlassen,
+Zustand wird nur dann verlassen,
 
 00:06:16,670 --> 00:06:20,750
 wenn man sich in der entsprechenden

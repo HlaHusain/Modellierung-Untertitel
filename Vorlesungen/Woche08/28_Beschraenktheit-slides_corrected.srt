@@ -291,7 +291,7 @@ at most one token per place, etc.
 This is very limited.
 
 00:05:45,890 --> 00:05:50,600
-Actually "1-safe" or "1-bounded",
+In fact "1-safe" or "1-bounded",
 but it's called "1-safe".
 
 00:05:51,890 --> 00:05:55,850

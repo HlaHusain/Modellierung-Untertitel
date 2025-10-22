@@ -93,12 +93,12 @@ but first of all, for example, which
 calls/uses should be syntactically allowed.
 
 00:01:46,470 --> 00:01:50,700
-What should even be meaningful
-operations uses,
+What even should be meaningful
+uses of operations,
 
 00:01:50,700 --> 00:01:53,670
-and also how operations
-can be combined.
+and also how
+operations can be combined.
 
 00:01:53,670 --> 00:01:56,250
 Usually a system will
@@ -239,14 +239,14 @@ This is set notation: a function.
 
 00:04:08,340 --> 00:04:14,300
 A function, given its range of
-values and its range of images.
+inputs and its range of results.
 
 00:04:14,300 --> 00:04:19,070
 The Komedia students should know this
 
 00:04:19,070 --> 00:04:22,970
 as notation from the second
-semester math lecture.
+semester math course.
 
 00:04:22,970 --> 00:04:24,530
 The computer science students
@@ -384,7 +384,7 @@ In the first position, you would
 still be allowed to have zero.
 
 00:06:30,290 --> 00:06:31,940
-So zero by five would still go on.
+So zero by five would still work.
 
 00:06:33,620 --> 00:06:38,060
 Then you would have to somehow think
@@ -629,7 +629,7 @@ result than before, where there was only N here.
 
 00:10:23,400 --> 00:10:26,040
 That would also have allowed
-that zero comes out there.
+zero to be the result there.
 
 00:10:26,850 --> 00:10:30,540
 This will not happen if at least one
@@ -794,7 +794,7 @@ Then I couldn't say anymore:
 
 00:13:11,620 --> 00:13:15,400
 I'll calculate this for a test to
-see if a division by zero comes out.
+see if a division by zero appears.
 
 00:13:17,230 --> 00:13:20,680
 If we have static information
@@ -890,7 +890,7 @@ develop a graphics program or
 
 00:15:10,390 --> 00:15:16,330
 somehow an app that should have
-operations to draw and manipulate images.
+operations to draw and manipulate pictures.
 
 00:15:16,330 --> 00:15:18,730
 And we want to model that program now.
@@ -949,7 +949,7 @@ need in the graphics domain?
 
 00:16:19,330 --> 00:16:24,190
 Perhaps colors, points,
-coordinates, or even whole images.
+coordinates, or even whole pictures.
 
 00:16:27,520 --> 00:16:30,040
 So, let's think
@@ -957,11 +957,11 @@ about an initial operation.
 
 00:16:30,040 --> 00:16:34,000
 What might we have as an
-operation that creates an image?
+operation that creates a picture?
 
 00:16:34,000 --> 00:16:38,140
 Maybe we would like to be able
-to paint a circle as an image.
+to paint a circle as a picture.
 
 00:16:38,140 --> 00:16:39,490
 And then we need to think about:
@@ -991,7 +991,7 @@ That's why we introduce an operation called
 
 00:16:55,870 --> 00:16:59,080
 that number as a
-radius, and returns an image.
+radius, and returns a picture.
 
 00:17:01,150 --> 00:17:04,930
 We could imagine that if we call
@@ -1018,10 +1018,10 @@ Here, it is only about this:
 
 00:17:22,830 --> 00:17:26,460
 There is this "circle" operation, which
-takes a number and delivers an image.
+takes a number and delivers a picture.
 
 00:17:26,460 --> 00:17:31,380
-The fact that it is this image, in this specific
+The fact that it is this picture, in this specific
 case, would not be part of the static modeling,
 
 00:17:31,380 --> 00:17:33,390
@@ -1263,14 +1263,15 @@ there would be other such
 pairs, for example (1,2).
 
 00:21:42,160 --> 00:21:46,060
-Here seems to be (3,0) and then here (6,4).
+Here, there seems to be
+(3,0), and then here, (6,4).
 
 00:21:46,060 --> 00:21:51,880
 So I call the path operation with a
 such list of coordinate pairs,
 
 00:21:51,880 --> 00:21:53,290
-and then an image comes out.
+and then a picture results.
 
 00:21:53,290 --> 00:21:55,480
 In that case, just this zigzag curve.
@@ -1280,11 +1281,11 @@ And maybe also as another operation:
 
 00:22:01,240 --> 00:22:05,560
 Suppose we also want to allow labels
-in our images, somehow with text.
+in our pictures, somehow with text.
 
 00:22:05,560 --> 00:22:08,860
 Then we have to have an operation
-that converts text into an image.
+that converts text into a picture.
 
 00:22:08,860 --> 00:22:11,470
 And that could be,
@@ -1309,8 +1310,8 @@ You probably know these quotation marks
 as well, as delimiters for strings
 
 00:22:28,930 --> 00:22:33,550
-in many programming languages (or in
-the programming language you first learn).
+in many programming languages (or in the
+programming language you first learn).
 
 00:22:33,550 --> 00:22:38,530
 And then the result here will be a picture
@@ -1374,10 +1375,10 @@ But if we want a string to be displayed
 
 00:23:40,060 --> 00:23:42,970
 larger, there is another operation for
-that, which can enlarge any image.
+that, which can enlarge any picture.
 
 00:23:42,970 --> 00:23:46,030
-Also including images created using "print".
+Also including pictures created using "print".
 
 00:23:46,030 --> 00:23:52,480
 If we decide this way, it would
@@ -1407,7 +1408,7 @@ If we want to go beyond
 
 00:24:15,220 --> 00:24:18,580
 that, we could provide operations
-that have images as inputs as well.
+that have pictures as inputs as well.
 
 00:24:18,580 --> 00:24:23,410
 And for example, for this scaling,
@@ -1418,7 +1419,7 @@ We'd like to have
 an operation called scale.
 
 00:24:27,670 --> 00:24:35,440
-It gets an image, gets two numbers
+It gets a picture, gets two numbers
 to be interpreted as scale.
 
 00:24:35,440 --> 00:24:38,522
@@ -1459,7 +1460,7 @@ well, or color other figures, maybe
 a "color" operation would be good.
 
 00:25:12,160 --> 00:25:17,260
-It has to get an image again, and
+It has to get a picture again, and
 it has to get a color passed to it.
 
 00:25:17,260 --> 00:25:20,770
@@ -1477,7 +1478,7 @@ And the result would be a picture again.
 And then we could say, for example:
 
 00:25:28,240 --> 00:25:31,750
-Take the image from just now
+Take the picture from just now
 (even before scaling, that
 
 00:25:31,750 --> 00:25:34,690
@@ -1499,7 +1500,7 @@ then we should get the big string in red.
 
 00:25:47,990 --> 00:25:50,300
 The idea, then, is to
-get an image out of here
+get a picture out of here
 
 00:25:50,300 --> 00:25:52,370
 that can be used again
@@ -1540,7 +1541,7 @@ have rectangles that are skewed.
 
 00:26:24,170 --> 00:26:27,770
 Then we would need the
-ability to rotate an image.
+ability to rotate a picture.
 
 00:26:27,770 --> 00:26:29,330
 So we could say:
@@ -1575,7 +1576,7 @@ place about the origin.
 So, what can we do now?
 
 00:27:04,100 --> 00:27:09,140
-Now, we have these images that
+Now, we have these pictures that
 we can change a little bit.
 
 00:27:09,140 --> 00:27:11,900
@@ -1637,13 +1638,13 @@ able to read anything at all.
 So, what do we need for this?
 
 00:28:05,690 --> 00:28:08,060
-Another operation to move an image.
+Another operation to move a picture.
 
 00:28:08,060 --> 00:28:09,890
 What does it need as arguments?
 
 00:28:10,850 --> 00:28:14,690
-First, the image to be moved, and
+First, the picture to be moved, and
 then probably two parameters again.
 
 00:28:14,690 --> 00:28:19,040
@@ -1655,7 +1656,7 @@ as displacement values.
 
 00:28:21,410 --> 00:28:26,000
 And the result would
-be an image, of course.
+be a picture, of course.
 
 00:28:26,000 --> 00:28:27,080
 So the idea is:
@@ -1693,7 +1694,7 @@ combine any of these.
 
 00:29:08,770 --> 00:29:13,330
 For example, we could not yet draw
-an image containing both a circle
+a picture containing both a circle
 
 00:29:13,330 --> 00:29:15,610
 and a rectangle in this way.
@@ -1715,7 +1716,7 @@ desirable as a meaningful operation?
 
 00:29:30,370 --> 00:29:33,190
 Anything that would allow us
-to combine multiple images.
+to combine multiple pictures.
 
 00:29:33,190 --> 00:29:37,810
 And the easiest choice would
@@ -1729,16 +1730,16 @@ takes two numbers and returns one number).
 We've only ever had operations until now
 
 00:29:43,690 --> 00:29:46,360
-that took at most one image
-and returned one image.
+that took at most one picture
+and returned one picture.
 
 00:29:46,360 --> 00:29:49,540
 If we want to
-combine images, maybe overlap
+combine pictures, maybe overlap
 
 00:29:49,540 --> 00:29:54,790
 them, we need an operation that
-composes an image from partial images.
+composes a picture from partial pictures.
 
 00:29:54,790 --> 00:29:57,400
 This could be a binary
@@ -1769,7 +1770,7 @@ Because we may combine the operations.
 That would be a picture expression.
 
 00:30:20,830 --> 00:30:26,290
-And we get another image expression by
+And we get another picture expression by
 outputting a piece of text, coloring it, rotating
 
 00:30:26,290 --> 00:30:31,450
@@ -1777,16 +1778,16 @@ it appropriately, and then moving it
 from the origin to a different location.
 
 00:30:31,450 --> 00:30:35,290
-And then we would have an image that
-corresponds to this blue zigzag line, and an
+And then we would have a picture that
+corresponds to this blue zigzag line, and a
 
 00:30:35,290 --> 00:30:39,520
-image that corresponds to
+picture that corresponds to
 this cleverly positioned text.
 
 00:30:39,520 --> 00:30:44,680
 And if we combine that with this new
-operation, then we get an image that
+operation, then we get a picture that
 
 00:30:44,680 --> 00:30:45,640
 has both in it.
@@ -1797,7 +1798,7 @@ arbitrary nesting of operations (as we're
 
 00:30:49,870 --> 00:30:56,830
 already seeing here), we can already create
-quite complex and interesting images.
+quite complex and interesting pictures.
 
 00:31:00,540 --> 00:31:02,910
 One thing to note is that
@@ -1843,11 +1844,11 @@ In doing so, one can also ask oneself:
 
 00:31:35,580 --> 00:31:38,880
 For example, can I apply the
-operation to three images?
+operation to three pictures?
 
 00:31:38,880 --> 00:31:41,940
 Probably not directly, because here
-it says: there are two images.
+it says: there are two pictures.
 
 00:31:41,940 --> 00:31:45,360
 But like I can write down
@@ -1964,7 +1965,7 @@ Which is true here for this expression.
 
 00:33:49,390 --> 00:33:56,050
 But for the outer call, the argument
-is not a number, but an image.
+is not a number, but a picture.
 
 00:33:56,050 --> 00:34:00,040
 Because 3 is a
@@ -2017,7 +2018,7 @@ to why this expression would not be okay.
 This expression would not be okay
 
 00:34:48,000 --> 00:34:52,710
-because "circle(3)" is again an image,
+because "circle(3)" is again a picture,
 and that itself is not printable text.
 
 00:34:52,710 --> 00:34:55,710
@@ -2025,7 +2026,7 @@ So "print" expects a string,
 
 00:34:55,710 --> 00:34:58,950
 a string like text, which is
-then converted to an image.
+then converted to a picture.
 
 00:34:58,950 --> 00:35:02,010
 I can't pass "print" a
@@ -2056,7 +2057,7 @@ you really have a
 
 00:35:19,800 --> 00:35:23,820
 string there and not another expression
-to be interpreted as an image.
+to be interpreted as a picture.
 
 00:35:27,780 --> 00:35:31,530
 For the same reasons, something
@@ -2101,7 +2102,8 @@ And for none of these observations
 must I somehow run the program
 
 00:36:13,560 --> 00:36:16,230
-and paint the things, that is, create images.
+the program and paint the
+things, that is, create pictures.
 
 00:36:16,230 --> 00:36:19,170
 I can already determine all that
@@ -2115,7 +2117,7 @@ Here's the error: we applied
 "print" to a string, and
 
 00:36:25,800 --> 00:36:28,680
-an image comes out; here I'd like
+a picture results; here I'd like
 to scale it by a factor of 3.
 
 00:36:28,680 --> 00:36:30,900
@@ -2130,7 +2132,7 @@ I introduced up front:
 
 00:36:33,450 --> 00:36:36,870
 "scale" always takes two arguments in
-addition to the image, i.e., two numbers, to
+addition to the picture, i.e., two numbers, to
 
 00:36:36,870 --> 00:36:39,240
 be able to scale in x and y directions.
@@ -2151,14 +2153,14 @@ specify it twice to use it
 for both x and y directions.
 
 00:36:52,540 --> 00:36:58,900
-For coloring, we need an
-image and a color to use.
+For coloring, we need a
+picture and a color to use.
 
 00:36:58,900 --> 00:37:01,411
 But it was specified as:
 
 00:37:01,411 --> 00:37:03,490
-You specify the image
+You specify the picture
 first and then the color.
 
 00:37:03,490 --> 00:37:07,360
@@ -2169,27 +2171,28 @@ would expect that to be rejected here as well.
 Again, more of an error like the one above.
 
 00:37:18,970 --> 00:37:23,740
-So "rotate" expects an image and an angle,
+So "rotate" expects a
+picture and an angle,
 
 00:37:23,740 --> 00:37:27,910
 rather than two angles or
 anything that is a number.
 
 00:37:27,910 --> 00:37:33,670
-Here in front, there should be an image,
-and the number 30 itself is not an image.
+Here in front, there should be a picture,
+and the number 30 itself is not a picture.
 
 00:37:33,670 --> 00:37:38,890
 You can print 30 with "print("30")", and then
-you would have an image that you could rotate.
+you would have a picture that you could rotate.
 
 00:37:38,890 --> 00:37:45,520
-But the number 30 itself is not an
-image and therefore cannot be rotated.
+But the number 30 itself is not a
+picture and therefore cannot be rotated.
 
 00:37:45,520 --> 00:37:48,610
 Our combination operator was
-meant for images.
+meant for pictures.
 
 00:37:48,610 --> 00:37:54,190
 So, as was said, the specification was
@@ -2359,7 +2362,7 @@ for example, which I
 
 00:40:46,420 --> 00:40:54,760
 have defined or declared, is passed
-two numbers and returns an image.
+two numbers and returns a picture.
 
 00:40:54,760 --> 00:40:59,920
 In C or Java, and many other mostly
@@ -2378,14 +2381,14 @@ here as the name of a function.
 
 00:41:14,780 --> 00:41:18,860
 The result type, i.e., what output
-comes out (which is the last quantity
+is produced (which is the last quantity
 
 00:41:18,860 --> 00:41:24,980
 here in mathematical notation),
 is then often specified first.
 
 00:41:24,980 --> 00:41:29,600
-So, "rectangle" returns an image and
+So, "rectangle" returns a picture and
 gets the arguments passed to it,
 
 00:41:29,600 --> 00:41:32,570
