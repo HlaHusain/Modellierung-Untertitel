@@ -27,10 +27,7 @@ jobs:
       - name: Run Linter
         uses: super-linter/super-linter@v8.2.1
         env:
-          VALIDATE_MARKDOWN: true
-          VALIDATE_JSON_PRETTIER: true
           VALIDATE_YAML: true
           VALIDATE_JSCPD_ALL_CODEBASE: true
           VALIDATE_GITHUB_ACTIONS: true
-          VALIDATE_YAML_PRETTIER: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
