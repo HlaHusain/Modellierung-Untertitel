@@ -506,7 +506,7 @@ One token from s1, one token
 from s2, and zero tokens from s3.
 
 00:09:40,360 --> 00:09:42,760
-This corresponds to the non-existent
+This corresponds to the does not exist
 arrow from here to here.
 
 00:09:42,760 --> 00:09:47,110

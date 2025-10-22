@@ -32,8 +32,8 @@
 \bother[- ]wise\b
 
 # s.b. nonexistent
-\bnon existing\b
-\b[Nn]o[nt][- ]existent\b
+#\bnon existing\b
+#\b[Nn]o[nt][- ]existent\b
 
 # s.b. preexisting
 [Pp]re[- ]existing
@@ -55,3 +55,6 @@
 
 # Reject duplicate words
 \s([A-Z]{3,}|[A-Z][a-z]{2,}|[a-z]{3,})\s\g{-1}\s
+
+\# allow non-existent
+\b[Nn]o[nt][- ]existent\b
