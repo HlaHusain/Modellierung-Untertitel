@@ -33,5 +33,3 @@ jobs:
           YAML_ERROR_ON_WARNING: true
           VALIDATE_GITHUB_ACTIONS_ZIZMOR: false
           VALIDATE_YAML_PRETTIER: false
-          YAML_ERROR_ON_WARNING: true 
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
