@@ -38,7 +38,7 @@ eine Vektorgrafikdomäne sein, die wir diesmal
 objektorientiert spezifizieren wollen.
 
 00:00:35,120 --> 00:00:36,780
-Das könnte man sich ja vorstellen.
+Das ließe sich ja vorstellen.
 
 00:00:36,780 --> 00:00:41,840
 Dann wird es am Ende einen Graphen geben,
@@ -98,7 +98,7 @@ können (auch mit ihren Typen).
 
 00:01:33,219 --> 00:01:37,939
 Das ist natürlich irgendwie die Brücke zur
-dynamischen Modellierung, wo man dann ausdrücken
+dynamischen Modellierung, wo dann ausgedrückt
 
 00:01:37,939 --> 00:01:40,340
 würde, was diese Methoden tun sollen.
@@ -114,8 +114,8 @@ Als Bemerkung:
 Natürlich stehen hier schon Aktivitäten.
 
 00:01:50,009 --> 00:01:57,810
-Etwa, man möge einen Punkt in x- und y-Richtung
-bewegen, um irgendwelche Zahlendifferenzen.
+Etwa, es möge ein Punkt in x- und y-Richtung
+bewegt werden, um irgendwelche Zahlendifferenzen.
 
 00:01:57,810 --> 00:02:00,219
 Dennoch ist das, was hier steht,
@@ -136,8 +136,8 @@ Argumenttypen interessant, die jeweils in
 Klammern stehen.
 
 00:02:14,569 --> 00:02:18,750
-Also man kann einen Punkt bewegen, und dann
-muss man sagen, worum man ihn bewegen möchte,
+Also ein Punkt kann bewegt werden, und dann
+muss angegeben werden, worum er bewegt werden soll,
 
 00:02:18,750 --> 00:02:20,470
 um welche Differenzen.
@@ -313,7 +313,7 @@ wir jetzt getan hatten, war, dass wir den
 Attributen Typen gegeben haben.
 
 00:05:20,500 --> 00:05:22,280
-Manchmal gibt man denen auch Vorgabewerte.
+Manchmal werden denen auch Vorgabewerte gegeben.
 
 00:05:22,280 --> 00:05:28,470
 Wo die Idee dann ist, dass wenn in einzelnen
@@ -324,7 +324,7 @@ explizit belegt wird, dann einfach der
 Vorgabewert aus der Klassenangabe gelten würde.
 
 00:05:35,920 --> 00:05:38,430
-Dann würde man das so schreiben:
+Dann würde das so geschrieben werden:
 
 00:05:38,430 --> 00:05:41,000
 Also x muss eine ganze Zahl
@@ -365,14 +365,14 @@ indem die Instanz-Attribute mit
 konkreten Zahlen belegt sind.
 
 00:06:27,470 --> 00:06:29,940
-Das würde man dann so notieren.
+Das würde dann so notiert werden.
 
 00:06:29,940 --> 00:06:35,770
-Also man kann durchaus die Klasse und das
-Objekt gemeinsam notieren, und dann durch
+Also die Klasse und das Objekt können durchaus
+gemeinsam notiert werden, und dann kann durch
 
 00:06:35,770 --> 00:06:37,690
-diese spezielle Art des Pfeils sagen:
+diese spezielle Art des Pfeils gesagt werden:
 
 00:06:37,690 --> 00:06:40,100
 Das ist eine Instanz dieser Klasse.
@@ -440,14 +440,14 @@ Das soll nicht sein und kann
 dann auch zu Punktabzug führen.
 
 00:07:48,750 --> 00:07:56,460
-Also wenn man für verschiedene Objekte verschiedenes
-Verhalten haben will, dann wären das einfach
+Also wenn für verschiedene Objekte verschiedenes
+Verhalten gewünscht ist, dann wären das einfach
 
 00:07:56,460 --> 00:07:57,770
 nicht Objekte der gleichen Klasse.
 
 00:07:57,770 --> 00:07:59,690
-Dann hätte man zwei verschiedene Klassen.
+Dann wären zwei verschiedene Klassen vorhanden.
 
 00:07:59,690 --> 00:08:04,110
 Also es kann ja noch Klassen geben, die auch
@@ -457,14 +457,14 @@ zwei ganze Zahlen speichern, zum Beispiel
 eine Klasse für arithmetische Brüche.
 
 00:08:06,860 --> 00:08:07,960
-Da braucht man auch zwei Zahlen.
+Da werden auch zwei Zahlen benötigt.
 
 00:08:07,960 --> 00:08:12,220
 Das wäre dann aber keine Punkt-Klasse,
 weil sie ganz andere Operationen hätte.
 
 00:08:12,220 --> 00:08:14,240
-Dann hätte man eine zweite Klasse für Brüche.
+Dann gäbe es eine zweite Klasse für Brüche.
 
 00:08:14,240 --> 00:08:16,400
 Davon gäbe es auch Objekte.
@@ -621,7 +621,7 @@ ColoredPoint, aber ColoredPoint kann noch
 weitere Funktionalität anbieten.
 
 00:11:05,530 --> 00:11:10,460
-Man spricht dann von Superklasse oder Oberklasse.
+Dann wird von Superklasse oder Oberklasse gesprochen.
 
 00:11:10,460 --> 00:11:12,770
 Das wäre hier:
@@ -632,10 +632,10 @@ die Oberklasse oder Superklasse.
 
 00:11:15,690 --> 00:11:20,640
 Und das spezialisierte Konzept des gefärbten
-Punktes hier, das nennt man Unterklasse oder
+Punktes hier, das wird Unterklasse oder
 
 00:11:20,640 --> 00:11:21,640
-Subklasse.
+Subklasse genannt.
 
 00:11:21,640 --> 00:11:24,660
 Manchmal wird dann hier gefragt:
@@ -644,7 +644,7 @@ Manchmal wird dann hier gefragt:
 Gibt es auch Mehrfachvererbung?
 
 00:11:31,430 --> 00:11:33,090
-Kann man auch von mehreren Sachen erben?
+Kann auch von mehreren Sachen geerbt werden?
 
 00:11:33,090 --> 00:11:35,580
 Also, könnte ColoredPoint auch von
@@ -664,14 +664,14 @@ Darüber werden wir gleich sprechen.
 
 00:11:43,230 --> 00:11:49,340
 Auch an unserem Bibliotheks-Beispiel
-könnte man sich noch fragen:
+könnte sich noch die Frage gestellt werden:
 
 00:11:49,340 --> 00:11:51,990
 Ist da auch irgendwie
 sinnvolle Vererbung denkbar?
 
 00:11:51,990 --> 00:11:53,480
-Man muss immer überlegen:
+Es muss immer überlegt werden:
 
 00:11:53,480 --> 00:11:55,810
 Gibt es dort Aspekte, die
@@ -705,7 +705,7 @@ Also zwar hat nur die Zeitschrift Zeitschriftennummern
 und vielleicht nur die Videos haben eine Spieldauer,
 
 00:12:23,860 --> 00:12:27,290
-aber einen Autor und einen
+aber eine Autorin oder einen Autor und einen
 Titel haben alle diese Medien.
 
 00:12:27,290 --> 00:12:31,320
@@ -754,12 +754,12 @@ dieser Methoden für ColoredPoints etwas anders
 sein muss.
 
 00:13:18,180 --> 00:13:21,910
-Dann würde man also nicht ändern, dass die
+Dann würde also nicht geändert, dass die
 Methoden existieren, sondern was sie tun.
 
 00:13:21,910 --> 00:13:26,800
-Und für die neuen Methoden muss man natürlich
-sowieso sagen, was sie tun, weil der Point
+Und für die neuen Methoden muss natürlich
+sowieso gesagt werden, was sie tun, weil der Point
 
 00:13:26,800 --> 00:13:35,820
 selbst nichts über Grau-Einfärbung weiß.
@@ -776,14 +776,14 @@ auch als Objekt der Oberklasse angesehen werden
 kann.
 
 00:13:54,630 --> 00:13:57,160
-Da spricht man von Polymorphie/Vielgestaltigkeit.
+Da wird von Polymorphie/Vielgestaltigkeit gesprochen.
 
 00:13:57,160 --> 00:14:01,810
-In dem Sinne, dass alles, was man mit Points
-machen kann, man mit ColoredPoint auch noch
+In dem Sinne, dass alles, was mit Points
+gemacht werden kann, auch mit ColoredPoint noch
 
 00:14:01,810 --> 00:14:02,810
-machen kann.
+gemacht werden kann.
 
 00:14:02,810 --> 00:14:07,451
 Also ColoredPoints sind nicht einfach irgendeine
@@ -808,8 +808,8 @@ Sonst wäre es falsch, hier
 eine Vererbung zu haben.
 
 00:14:19,810 --> 00:14:24,710
-Man sollte also nicht einfach beliebige Konzepte
-durch Vererbung verbinden, nur weil sie zufällig
+Es sollten also nicht einfach beliebige Konzepte
+durch Vererbung verbunden werden, nur weil sie zufällig
 
 00:14:24,710 --> 00:14:25,710
 ähnliche Datenspeicher haben.
@@ -847,14 +847,14 @@ haben, sondern dann ein ganzes Klassendiagramm
 mit mehreren Klassen und ihren Beziehungen.
 
 00:15:07,730 --> 00:15:14,010
-Und dann kann man eben in Situationen kommen,
+Und dann kann es eben zu Situationen kommen,
 wo bestimmte Konstellationen keinen Sinn mehr
 
 00:15:14,010 --> 00:15:15,010
 ergeben.
 
 00:15:15,010 --> 00:15:17,680
-Da muss man einige Dinge beachten.
+Da müssen einige Dinge beachtet werden.
 
 00:15:17,680 --> 00:15:22,810
 Insbesondere für den Moment ist es
@@ -871,7 +871,7 @@ Was verboten ist, wären erst
 mal irgendwelche Zirkularitäten.
 
 00:15:31,290 --> 00:15:34,120
-Also man kann nicht im Kreis vererben.
+Also es kann nicht im Kreis vererbt werden.
 
 00:15:34,120 --> 00:15:38,779
 Es kann nicht sein, dass B von A
@@ -924,7 +924,7 @@ Bei den anderen Situationen könnte
 sich das Bild ja jeweils ändern.
 
 00:16:27,690 --> 00:16:33,040
-Während hier, wenn man den Pfeil umdrehen
+Während hier, wenn der Pfeil umgedreht
 würde, es wieder eine Zirkelarität wäre.
 
 00:16:33,040 --> 00:16:36,920
@@ -932,22 +932,22 @@ Wäre sozusagen aus einem anderen Grund verboten
 und nicht wegen dieser Doppelvererbung.
 
 00:16:36,920 --> 00:16:43,490
-Und wenn man hier einen Pfeil umdrehen
-würde, hätte man keine Zirkularität mehr.
+Und wenn hier ein Pfeil umgedreht
+würde, gäbe es keine Zirkularität mehr.
 
 00:16:43,490 --> 00:16:48,580
 Also Zirkularität heißt wirklich:
 in Richtung der Pfeile ein Kreis.
 
 00:16:48,580 --> 00:16:52,592
-Wenn man hier den Pfeil umdrehen würde, hätte
-man keine Zirkularität mehr, weil man den
+Wenn hier der Pfeil umgedreht würde, gäbe
+es keine Zirkularität mehr, weil den
 
 00:16:52,592 --> 00:16:54,740
-Pfeilen folgend nicht im Kreis gehen könnte.
+Pfeilen folgend nicht im Kreis gegangen werden könnte.
 
 00:16:54,740 --> 00:16:56,640
-Man hätte dann aber eine Doppelvererbung.
+Dann würde allerdings eine Doppelvererbung vorliegen.
 
 00:16:56,640 --> 00:16:59,779
 Dann würde C von A und von B erben.
