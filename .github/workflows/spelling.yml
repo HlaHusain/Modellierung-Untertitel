@@ -28,7 +28,7 @@ name: Check Spelling
 on:
   push:
     branches: ['**']
-  pull_request_target:
+  pull_request:
   issue_comment:
     types: [created]
 
