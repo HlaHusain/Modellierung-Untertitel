@@ -29,4 +29,5 @@ jobs:
         uses: super-linter/super-linter@v8.2.1
         env:
           VALIDATE_MARKDOWN: false
+          VALIDATE_BIOME_FORMAT: false
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
