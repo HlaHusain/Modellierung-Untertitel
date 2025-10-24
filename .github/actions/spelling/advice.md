@@ -2,7 +2,8 @@
 <details><summary>If the flagged items are false positives</summary>
 
 If items relate to a ...
-* binary file (or some other file you wouldn't want to check at all).
+
+- binary file (or some other file you wouldn't want to check at all).
 
   Please add a file path to the `excludes.txt` file matching the containing file.
 
@@ -10,7 +11,7 @@ If items relate to a ...
 
   `^` refers to the file's path from the root of the repository, so `^README\.md$` would exclude README.md (on whichever branch you're using).
 
-* well-formed pattern.
+- well-formed pattern.
 
   If you can write a [pattern](https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-patterns) that would match it,
   try adding it to the `patterns.txt` file.
