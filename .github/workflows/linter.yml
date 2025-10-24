@@ -33,3 +33,25 @@ jobs:
           VALIDATE_MARKDOWN: false
           VALIDATE_BIOME_FORMAT: false
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  update:
+    name: Update PR
+    permissions:
+      contents: write
+      pull-requests: write
+    runs-on: ubuntu-latest
+    if: ${{  github.event_name == 'issue_comment' && github.event.issue.pull_request && contains(github.event.comment.body, '@super-linter apply') }}
+    concurrency:
+      group: linter-update-${{ github.event.issue.number }}
+      cancel-in-progress: false
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+          ref: ${{ github.head_ref }}
+
+      - name: Apply linter fixes
+        uses: super-linter/super-linter@v8.2.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
