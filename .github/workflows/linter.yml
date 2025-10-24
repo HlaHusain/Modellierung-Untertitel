@@ -25,7 +25,6 @@ jobs:
           # list of changed files within `super-linter`
           fetch-depth: 0
           persist-credentials: false
-          ref: ${{ github.head_ref }}
 
       - name: Run Linter
         uses: super-linter/super-linter@v8.2.1
